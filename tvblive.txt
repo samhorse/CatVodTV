@@ -3327,95 +3327,95 @@ MOMOTV,rtmp://9hv9.mine.nu/sat/tv761.flv
 阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 🏰港闽高清,#genre#
-凤凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-凤凰资讯,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
-凤凰香港,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
-中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-美亚电影,https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
-天映频道,https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
-POPC电影,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
-PLUS综合,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
-无线新闻,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-无线翡翠,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
-无线星河,https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
-无线明珠,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
-无线赛马,https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
-无线翡剧,https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
-无线明剧,https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
-无线J1美,https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
-TVBS新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-TVBS高清,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-东森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-东森电影,https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
-东森洋片,https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
-民视高清,https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
-民视第一,https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
-民视综艺,https://s1.m16tv.cfd/taiwan/CH-4/AKTV.m3u8
-中视高清,https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
-中视经典,https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
-台视高清,https://s1.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
-八度空间,https://s1.m16tv.cfd/astro/8tv/AKTV.m3u8
-纬来体育,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
-爱奇艺剧场,https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
-好莱坞电影,https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
-朝鲜恩情,https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
-全天新闻,https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
-ANN新闻,https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-CNA新闻,https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
-TVN韩综,https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
-ROCK影综,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
-AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
-HBO,https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
-KPOP+,https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
-VIUTV,https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
-CHANNELU,https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
-CHANNEL5,https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
-CHANNEL8,https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+凤凰中文,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
+凤凰资讯,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
+凤凰香港,https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8
+中天新闻,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
+美亚电影,https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
+天映频道,https://s2.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8
+POPC电影,https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
+PLUS综合,https://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
+无线新闻,https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
+无线翡翠,https://s1.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
+无线星河,https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
+无线明珠,https://s1.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
+无线赛马,https://s1.tvm4a1.cfd/aktv/mytvsuper18/AKTV.m3u8
+无线翡剧,https://s1.tvm4a1.cfd/aktv/CH-18/AKTV.m3u8
+无线明剧,https://s1.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8
+无线J1美,https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
+TVBS新闻,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
+TVBS高清,https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
+东森新闻,https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
+东森电影,https://s1.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
+东森洋片,https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
+民视高清,https://s1.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
+民视第一,https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
+民视综艺,https://s1.tvm4a1.cfd/taiwan/CH-4/AKTV.m3u8
+中视高清,https://s1.tvm4a1.cfd/taiwan/CH-3/AKTV.m3u8
+中视经典,https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
+台视高清,https://s1.tvm4a1.cfd/taiwan/CH-2/AKTV.m3u8
+八度空间,https://s1.tvm4a1.cfd/astro/8tv/AKTV.m3u8
+纬来体育,https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
+爱奇艺剧场,https://s1.tvm4a1.cfd/aktv2/iqiyi/AKTV.m3u8
+好莱坞电影,https://s1.tvm4a1.cfd/aktv2/CH-4/AKTV.m3u8
+朝鲜恩情,https://s1.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
+全天新闻,https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
+ANN新闻,https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+CNA新闻,https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
+TVN韩综,https://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
+ROCK影综,https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
+AXN,https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
+HBO,https://s1.tvm4a1.cfd/aktv2/hbo/AKTV.m3u8
+KPOP+,https://s1.tvm4a1.cfd/aktv3/kpop/AKTV.m3u8
+VIUTV,https://s1.tvm4a1.cfd/aktv2/viutv/AKTV.m3u8
+CHANNELU,https://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
+CHANNEL5,https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
+CHANNEL8,https://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
 
-凤凰中文,https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-凤凰资讯,https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
-凤凰香港,https://s2.m16tv.cfd/aktv/CH-5/AKTV.m3u8
-中天新闻,https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-美亚电影,https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
-天映频道,https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
-POPC电影,https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8
-PLUS综合,https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
-无线新闻,https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-无线翡翠,https://s2.m16tv.cfd/aktv/CH-0/AKTV.m3u8
-无线星河,https://s2.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
-无线明珠,https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8
-无线赛马,https://s2.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
-无线翡剧,https://s2.m16tv.cfd/aktv/CH-18/AKTV.m3u8
-无线明剧,https://s2.m16tv.cfd/aktv/CH-19/AKTV.m3u8
-无线J1美,https://s2.m16tv.cfd/aktv/CH-17/AKTV.m3u8
-TVBS新闻,https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-TVBS高清,https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-东森新闻,https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-东森电影,https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
-东森洋片,https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
-民视高清,https://s2.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
-民视第一,https://s2.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
-民视综艺,https://s2.m16tv.cfd/taiwan/CH-4/AKTV.m3u8
-中视高清,https://s2.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
-中视经典,https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
-台视高清,https://s2.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
-八度空间,https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
-纬来体育,https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
-爱奇艺剧场,https://s2.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
-好莱坞电影,https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
-朝鲜恩情,https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
-全天新闻,https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
-ANN新闻,https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-CNA新闻,https://s2.m16tv.cfd/aktv3/cna/AKTV.m3u8
-TVN韩综,https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8
-ROCK影综,https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
-AXN,https://s2.m16tv.cfd/aktv/axn/AKTV.m3u8
-HBO,https://s2.m16tv.cfd/aktv2/hbo/AKTV.m3u8
-KPOP+,https://s2.m16tv.cfd/aktv3/kpop/AKTV.m3u8
-VIUTV,https://s2.m16tv.cfd/aktv2/viutv/AKTV.m3u8
-CHANNELU,https://s2.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
-CHANNEL5,https://s2.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
-CHANNEL8,https://s2.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+凤凰中文,https://s2.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
+凤凰资讯,https://s2.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
+凤凰香港,https://s2.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8
+中天新闻,https://s2.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
+美亚电影,https://s2.tvm4a1.cfd/aktv/hk/AKTV.m3u8
+天映频道,https://s2.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8
+POPC电影,https://s2.tvm4a1.cfd/aktv/popc/AKTV.m3u8
+PLUS综合,https://s2.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
+无线新闻,https://s2.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
+无线翡翠,https://s2.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
+无线星河,https://s2.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
+无线明珠,https://s2.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
+无线赛马,https://s2.tvm4a1.cfd/aktv/mytvsuper18/AKTV.m3u8
+无线翡剧,https://s2.tvm4a1.cfd/aktv/CH-18/AKTV.m3u8
+无线明剧,https://s2.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8
+无线J1美,https://s2.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
+TVBS新闻,https://s2.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
+TVBS高清,https://s2.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
+东森新闻,https://s2.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
+东森电影,https://s2.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
+东森洋片,https://s2.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
+民视高清,https://s2.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
+民视第一,https://s2.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
+民视综艺,https://s2.tvm4a1.cfd/taiwan/CH-4/AKTV.m3u8
+中视高清,https://s2.tvm4a1.cfd/taiwan/CH-3/AKTV.m3u8
+中视经典,https://s2.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
+台视高清,https://s2.tvm4a1.cfd/taiwan/CH-2/AKTV.m3u8
+八度空间,https://s2.tvm4a1.cfd/astro/8tv/AKTV.m3u8
+纬来体育,https://s2.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
+爱奇艺剧场,https://s2.tvm4a1.cfd/aktv2/iqiyi/AKTV.m3u8
+好莱坞电影,https://s2.tvm4a1.cfd/aktv2/CH-4/AKTV.m3u8
+朝鲜恩情,https://s2.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
+全天新闻,https://s2.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
+ANN新闻,https://s2.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+CNA新闻,https://s2.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
+TVN韩综,https://s2.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
+ROCK影综,https://s2.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
+AXN,https://s2.tvm4a1.cfd/aktv/axn/AKTV.m3u8
+HBO,https://s2.tvm4a1.cfd/aktv2/hbo/AKTV.m3u8
+KPOP+,https://s2.tvm4a1.cfd/aktv3/kpop/AKTV.m3u8
+VIUTV,https://s2.tvm4a1.cfd/aktv2/viutv/AKTV.m3u8
+CHANNELU,https://s2.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
+CHANNEL5,https://s2.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
+CHANNEL8,https://s2.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
 
 🎬数字高清,#genre#
 IPTV北京淘剧场,http://wuwenxidong.work:2333/udp/225.1.8.37:8002
@@ -5019,31 +5019,31 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 最佳损友闯情关,https://vip.ffzy-play7.com/20221116/4843_accffdd6/index.m3u8
 
 🐝西游记国,#genre#
-西游记_第01集,http://live.nctv.top/DJlio/xyj.php?id=1
-西游记_第02集,http://live.nctv.top/DJlio/xyj.php?id=2
-西游记_第03集,http://live.nctv.top/DJlio/xyj.php?id=3
-西游记_第04集,http://live.nctv.top/DJlio/xyj.php?id=4
-西游记_第05集,http://live.nctv.top/DJlio/xyj.php?id=5
-西游记_第06集,http://live.nctv.top/DJlio/xyj.php?id=6
-西游记_第07集,http://live.nctv.top/DJlio/xyj.php?id=7
-西游记_第08集,http://live.nctv.top/DJlio/xyj.php?id=8
-西游记_第09集,http://live.nctv.top/DJlio/xyj.php?id=9
-西游记_第10集,http://live.nctv.top/DJlio/xyj.php?id=10
-西游记_第11集,http://live.nctv.top/DJlio/xyj.php?id=11
-西游记_第12集,http://live.nctv.top/DJlio/xyj.php?id=12
-西游记_第13集,http://live.nctv.top/DJlio/xyj.php?id=13
-西游记_第14集,http://live.nctv.top/DJlio/xyj.php?id=14
-西游记_第15集,http://live.nctv.top/DJlio/xyj.php?id=15
-西游记_第16集,http://live.nctv.top/DJlio/xyj.php?id=16
-西游记_第17集,http://live.nctv.top/DJlio/xyj.php?id=17
-西游记_第18集,http://live.nctv.top/DJlio/xyj.php?id=18
-西游记_第19集,http://live.nctv.top/DJlio/xyj.php?id=19
-西游记_第20集,http://live.nctv.top/DJlio/xyj.php?id=20
-西游记_第21集,http://live.nctv.top/DJlio/xyj.php?id=21
-西游记_第22集,http://live.nctv.top/DJlio/xyj.php?id=22
-西游记_第23集,http://live.nctv.top/DJlio/xyj.php?id=23
-西游记_第24集,http://live.nctv.top/DJlio/xyj.php?id=24
-西游记_第25集,http://live.nctv.top/DJlio/xyj.php?id=25
+西游记_第01集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
+西游记_第02集,https://txmov2.a.kwimgs.com/bs3/video-hls/5221923836211844606_hlsb.m3u8
+西游记_第03集,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835687545858667_hlsb.m3u8
+西游记_第04集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205307782734748_hlsb.m3u8
+西游记_第05集,https://txmov2.a.kwimgs.com/bs3/video-hls/5197998463397799646_hlsb.m3u8
+西游记_第06集,https://txmov2.a.kwimgs.com/bs3/video-hls/5248382480897511687_hlsb.m3u8
+西游记_第07集,https://txmov2.a.kwimgs.com/bs3/video-hls/5255982306920155520_hlsb.m3u8
+西游记_第08集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245004783362852874_hlsb.m3u8
+西游记_第09集,https://txmov2.a.kwimgs.com/bs3/video-hls/5188991261818113744_hlsb.m3u8
+西游记_第10集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286258564595605_hlsb.m3u8
+西游记_第11集,https://txmov2.a.kwimgs.com/bs3/video-hls/5242190033819283686_hlsb.m3u8
+西游记_第12集,https://txmov2.a.kwimgs.com/bs3/video-hls/5195465185500328899_hlsb.m3u8
+西游记_第13集,https://txmov2.a.kwimgs.com/bs3/video-hls/5233182832465375578_hlsb.m3u8
+西游记_第14集,https://txmov2.a.kwimgs.com/bs3/video-hls/5257952633664504505_hlsb.m3u8
+西游记_第15集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+西游记_第16集,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339285053330625_hlsb.m3u8
+西游记_第17集,https://txmov2.a.kwimgs.com/bs3/video-hls/5212353685308148894_hlsb.m3u8
+西游记_第18集,https://txmov2.a.kwimgs.com/bs3/video-hls/5196028138193985933_hlsb.m3u8
+西游记_第19集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201657637211300344_hlsb.m3u8
+西游记_第20集,https://txmov2.a.kwimgs.com/bs3/video-hls/5192368961005814924_hlsb.m3u8
+西游记_第21集,https://txmov2.a.kwimgs.com/bs3/video-hls/5234590208336898334_hlsb.m3u8
+西游记_第22集,https://txmov2.a.kwimgs.com/bs3/video-hls/5231212506629016061_hlsb.m3u8
+西游记_第23集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094684845468508_hlsb.m3u8
+西游记_第24集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245567730520243844_hlsb.m3u8
+西游记_第25集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
 
 🐯霍元甲粤,#genre#
 霍元甲粤语01,https://vip.lz-cdn8.com/20220726/19894_ad5e9bdc/1000k/hls/mixed.m3u8
