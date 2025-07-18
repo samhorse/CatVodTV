@@ -9,6 +9,97 @@ ______      _               _  _
 //如果你抓包了获取到了直播源,请自用,别公开,谢谢！//
 
 🔠央卫高清,#genre#
+CCTV-1,http://go.bkpcp.top/mg/cctv1
+CCTV-2,http://go.bkpcp.top/mg/cctv2
+CCTV-3,http://go.bkpcp.top/mg/cctv3
+CCTV-4,http://go.bkpcp.top/mg/cctv4
+CCTV-5,http://go.bkpcp.top/mg/cctv5
+CCTV-5+,http://go.bkpcp.top/mg/cctv5p
+CCTV-6,http://go.bkpcp.top/mg/cctv6
+CCTV-7,http://go.bkpcp.top/mg/cctv7
+CCTV-8,http://go.bkpcp.top/mg/cctv8
+CCTV-9,http://go.bkpcp.top/mg/cctv9
+CCTV-10,http://go.bkpcp.top/mg/cctv10
+CCTV-11,http://go.bkpcp.top/mg/cctv11
+CCTV-12,http://go.bkpcp.top/mg/cctv12
+CCTV-13,http://go.bkpcp.top/mg/cctv13
+CCTV-14,http://go.bkpcp.top/mg/cctv14
+CCTV-15,http://go.bkpcp.top/mg/cctv15
+CCTV-16,http://go.bkpcp.top/mg/cctv16
+CCTV-17,http://go.bkpcp.top/mg/cctv17
+CCTV-4欧洲,http://go.bkpcp.top/mg/cctv4o
+CCTV-4美洲,http://go.bkpcp.top/mg/cctv4m
+CGTN-纪录,http://go.bkpcp.top/mg/cgtnjl
+CGTN-英语,http://go.bkpcp.top/mg/cgtn
+CGTN-西语,http://go.bkpcp.top/mg/cgtne
+CGTN-阿语,http://go.bkpcp.top/mg/cgtna
+CGTN-法语,http://go.bkpcp.top/mg/cgtnf
+CGTN-俄语,http://go.bkpcp.top/mg/cgtnr
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy
+CHC动作电影,http://go.bkpcp.top/mg/dzdy
+CHC影迷电影,http://go.bkpcp.top/mg/ymdy
+安徽卫视,http://go.bkpcp.top/mg/ahws
+东方卫视,http://go.bkpcp.top/mg/dfws
+北京卫视,http://go.bkpcp.top/mg/bjws
+重庆卫视,http://go.bkpcp.top/mg/cqws
+吉林卫视,http://go.bkpcp.top/mg/jlws
+辽宁卫视,http://go.bkpcp.top/mg/lnws
+宁夏卫视,http://go.bkpcp.top/mg/nxws
+甘肃卫视,http://go.bkpcp.top/mg/gsws
+青海卫视,http://go.bkpcp.top/mg/qhws
+陕西卫视,http://go.bkpcp.top/mg/sxws
+山东卫视,http://go.bkpcp.top/mg/sdws
+湖北卫视,http://go.bkpcp.top/mg/hubws
+湖南卫视,http://go.bkpcp.top/mg/hunws
+江西卫视,http://go.bkpcp.top/mg/jxws
+江苏卫视,http://go.bkpcp.top/mg/jsws
+广东卫视,http://go.bkpcp.top/mg/gdws
+四川卫视,http://go.bkpcp.top/mg/scws
+新疆卫视,http://go.bkpcp.top/mg/xjws
+西藏卫视,http://go.bkpcp.top/mg/xzws
+海南卫视,http://go.bkpcp.top/mg/hinws
+海峡卫视,http://go.bkpcp.top/mg/hxws
+南方卫视,http://go.bkpcp.top/mg/dwqws
+内蒙古卫视,http://go.bkpcp.top/mg/nmws
+Y+ 剧 场,http://go.bkpcp.top/mg/yjjc
+中 学 生,http://go.bkpcp.top/mg/zxs
+老 故 事,http://go.bkpcp.top/mg/lgs
+发现之旅,http://go.bkpcp.top/mg/fxzl
+四海钓鱼,http://go.bkpcp.top/mg/shdy
+江苏城市,http://go.bkpcp.top/mg/jscs
+江苏综艺,http://go.bkpcp.top/mg/jszy
+江苏影视,http://go.bkpcp.top/mg/jsys
+江苏国际,http://go.bkpcp.top/mg/jsgj
+江苏教育,http://go.bkpcp.top/mg/jsjy
+山东教育,http://go.bkpcp.top/mg/sdjy
+游戏风云,http://go.bkpcp.top/mg/yxfy
+东方影视,http://go.bkpcp.top/mg/shys
+之江纪录,http://go.bkpcp.top/mg/zjjl
+杭州综合,http://go.bkpcp.top/mg/hzzh
+杭州明珠,http://go.bkpcp.top/mg/hzmz
+杭州生活,http://go.bkpcp.top/mg/hzsh
+杭州影视,http://go.bkpcp.top/mg/hzys
+杭州少儿,http://go.bkpcp.top/mg/hzse
+高清大片,http://go.bkpcp.top/mg/gqdp
+热剧联播,http://go.bkpcp.top/mg/rjlb
+成龙作品集,http://go.bkpcp.top/mg/clzp
+赛事最经典,http://go.bkpcp.top/mg/sszjd
+掼蛋精英赛,http://go.bkpcp.top/mg/gdjys
+体坛名栏汇,http://go.bkpcp.top/mg/ttmhl
+新片放映厅,http://go.bkpcp.top/mg/xpfyt
+军事迷必看大片,http://go.bkpcp.top/mg/jsdp
+经典深圳旁边电影,http://go.bkpcp.top/mg/jddy
+熊猫直播频道1,http://go.bkpcp.top/mg/xm1
+熊猫直播频道2,http://go.bkpcp.top/mg/xm2
+熊猫直播频道3,http://go.bkpcp.top/mg/xm3
+熊猫直播频道4,http://go.bkpcp.top/mg/xm4
+熊猫直播频道5,http://go.bkpcp.top/mg/xm5
+熊猫直播频道6,http://go.bkpcp.top/mg/xm6
+熊猫直播频道7,http://go.bkpcp.top/mg/xm7
+熊猫直播频道8,http://go.bkpcp.top/mg/xm8
+熊猫直播频道9,http://go.bkpcp.top/mg/xm9
+熊猫直播频道10,http://go.bkpcp.top/mg/xm10
+
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1
 CCTV-2,http://k.061899.xyz/m.php?id=cctv2
 CCTV-3,http://k.061899.xyz/m.php?id=cctv3
@@ -38,6 +129,7 @@ CGTN-俄语,http://k.061899.xyz/m.php?id=cgtnr
 CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
 CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 CHC影迷电影,http://k.061899.xyz/m.php?id=ymdy
+安徽卫视,http://k.061899.xyz/m.php?id=ahws
 东方卫视,http://k.061899.xyz/m.php?id=dfws
 北京卫视,http://k.061899.xyz/m.php?id=bjws
 重庆卫视,http://k.061899.xyz/m.php?id=cqws
@@ -73,7 +165,6 @@ Y+ 剧 场,http://k.061899.xyz/m.php?id=yjjc
 山东教育,http://k.061899.xyz/m.php?id=sdjy
 游戏风云,http://k.061899.xyz/m.php?id=yxfy
 东方影视,http://k.061899.xyz/m.php?id=shys
-东方购物,http://k.061899.xyz/m.php?id=dfgw
 之江纪录,http://k.061899.xyz/m.php?id=zjjl
 杭州综合,http://k.061899.xyz/m.php?id=hzzh
 杭州明珠,http://k.061899.xyz/m.php?id=hzmz
@@ -897,7 +988,7 @@ CETV-4中教,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
-三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8
+三沙卫视,https://livessws.hnntv.cn/live/ssws_250708hnntv.m3u8
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
 三沙卫视,http://thhomes.cn:4000/udp/239.3.1.155:4120
 三沙卫视,http://drive.mxmy.net:8888/udp/239.3.1.155:4120
@@ -3246,23 +3337,14 @@ RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/st
 中天新闻,https://ibf.tw/1Unk3
 中天电视,https://ibf.tw/wDF5b
 中天亚洲,https://ibf.tw/H6Rhx
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-中天电视,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天电视,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 中天亚洲,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
 台视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
 中视新闻,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
 民视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-华视新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
 华视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
 公视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctv_taiwan
-三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
 三立新闻,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 年代新闻,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
@@ -3270,7 +3352,6 @@ RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/st
 非凡新闻,rtmp://9hv9.mine.nu/sat/tv581.flv
 非凡新闻,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 壹视新闻,https://smart.pendy.dpdns.org/Smart.php?id=yinews
-东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
 东森新闻,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 东森财经,rtmp://f13h.mine.nu/sat/tv571.flv
 东森财经,rtmp://9hv9.mine.nu/sat/tv571.flv
@@ -3327,95 +3408,95 @@ MOMOTV,rtmp://9hv9.mine.nu/sat/tv761.flv
 阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 🏰港闽高清,#genre#
-凤凰中文,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
-凤凰资讯,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
-凤凰香港,https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8
-中天新闻,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
-美亚电影,https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
-天映频道,https://s2.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8
-POPC电影,https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
-PLUS综合,https://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
-无线新闻,https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
-无线翡翠,https://s1.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
-无线星河,https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
-无线明珠,https://s1.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
-无线赛马,https://s1.tvm4a1.cfd/aktv/mytvsuper18/AKTV.m3u8
-无线翡剧,https://s1.tvm4a1.cfd/aktv/CH-18/AKTV.m3u8
-无线明剧,https://s1.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8
-无线J1美,https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
-TVBS新闻,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
-TVBS高清,https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
-东森新闻,https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
-东森电影,https://s1.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
-东森洋片,https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
-民视高清,https://s1.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
-民视第一,https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
-民视综艺,https://s1.tvm4a1.cfd/taiwan/CH-4/AKTV.m3u8
-中视高清,https://s1.tvm4a1.cfd/taiwan/CH-3/AKTV.m3u8
-中视经典,https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
-台视高清,https://s1.tvm4a1.cfd/taiwan/CH-2/AKTV.m3u8
-八度空间,https://s1.tvm4a1.cfd/astro/8tv/AKTV.m3u8
-纬来体育,https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
-爱奇艺剧场,https://s1.tvm4a1.cfd/aktv2/iqiyi/AKTV.m3u8
-好莱坞电影,https://s1.tvm4a1.cfd/aktv2/CH-4/AKTV.m3u8
-朝鲜恩情,https://s1.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
-全天新闻,https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
-ANN新闻,https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-CNA新闻,https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
-TVN韩综,https://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
-ROCK影综,https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
-AXN,https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
-HBO,https://s1.tvm4a1.cfd/aktv2/hbo/AKTV.m3u8
-KPOP+,https://s1.tvm4a1.cfd/aktv3/kpop/AKTV.m3u8
-VIUTV,https://s1.tvm4a1.cfd/aktv2/viutv/AKTV.m3u8
-CHANNELU,https://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
-CHANNEL5,https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
-CHANNEL8,https://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
+凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+凤凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+美亚电影,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+天映频道,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+POPC电影,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+PLUS综合,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+无线新闻,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+无线翡翠,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+无线星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+无线明珠,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+无线赛马,http://s1.an94tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+无线翡剧,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+无线明剧,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+无线J1美,http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+TVBS新闻,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
+TVBS高清,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+东森电影,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+民视高清,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+民视第一,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
+民视综艺,http://s1.an94tv.cfd/taiwan/CH-4/AKTV.m3u8
+中视高清,http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+中视经典,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
+台视高清,http://s1.an94tv.cfd/taiwan/CH-2/AKTV.m3u8
+八度空间,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+爱奇艺剧场,http://s1.an94tv.cfd/aktv2/iqiyi/AKTV.m3u8
+好莱坞电影,http://s1.an94tv.cfd/aktv2/CH-4/AKTV.m3u8
+朝鲜恩情,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
+全天新闻,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
+ANN新闻,http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+CNA新闻,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+TVN韩综,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+ROCK影综,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
+HBO,http://s1.an94tv.cfd/aktv2/hbo/AKTV.m3u8
+KPOP+,http://s1.an94tv.cfd/aktv3/kpop/AKTV.m3u8
+VIUTV,http://s1.an94tv.cfd/aktv2/viutv/AKTV.m3u8
+CHANNELU,http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
+CHANNEL5,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
+CHANNEL8,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 
-凤凰中文,https://s2.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
-凤凰资讯,https://s2.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
-凤凰香港,https://s2.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8
-中天新闻,https://s2.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
-美亚电影,https://s2.tvm4a1.cfd/aktv/hk/AKTV.m3u8
-天映频道,https://s2.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8
-POPC电影,https://s2.tvm4a1.cfd/aktv/popc/AKTV.m3u8
-PLUS综合,https://s2.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
-无线新闻,https://s2.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
-无线翡翠,https://s2.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
-无线星河,https://s2.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
-无线明珠,https://s2.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
-无线赛马,https://s2.tvm4a1.cfd/aktv/mytvsuper18/AKTV.m3u8
-无线翡剧,https://s2.tvm4a1.cfd/aktv/CH-18/AKTV.m3u8
-无线明剧,https://s2.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8
-无线J1美,https://s2.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
-TVBS新闻,https://s2.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
-TVBS高清,https://s2.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
-东森新闻,https://s2.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
-东森电影,https://s2.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
-东森洋片,https://s2.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
-民视高清,https://s2.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
-民视第一,https://s2.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
-民视综艺,https://s2.tvm4a1.cfd/taiwan/CH-4/AKTV.m3u8
-中视高清,https://s2.tvm4a1.cfd/taiwan/CH-3/AKTV.m3u8
-中视经典,https://s2.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
-台视高清,https://s2.tvm4a1.cfd/taiwan/CH-2/AKTV.m3u8
-八度空间,https://s2.tvm4a1.cfd/astro/8tv/AKTV.m3u8
-纬来体育,https://s2.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
-爱奇艺剧场,https://s2.tvm4a1.cfd/aktv2/iqiyi/AKTV.m3u8
-好莱坞电影,https://s2.tvm4a1.cfd/aktv2/CH-4/AKTV.m3u8
-朝鲜恩情,https://s2.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
-全天新闻,https://s2.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
-ANN新闻,https://s2.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-CNA新闻,https://s2.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
-TVN韩综,https://s2.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
-ROCK影综,https://s2.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
-AXN,https://s2.tvm4a1.cfd/aktv/axn/AKTV.m3u8
-HBO,https://s2.tvm4a1.cfd/aktv2/hbo/AKTV.m3u8
-KPOP+,https://s2.tvm4a1.cfd/aktv3/kpop/AKTV.m3u8
-VIUTV,https://s2.tvm4a1.cfd/aktv2/viutv/AKTV.m3u8
-CHANNELU,https://s2.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
-CHANNEL5,https://s2.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
-CHANNEL8,https://s2.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
+凤凰中文,http://s2.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰资讯,http://s2.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+凤凰香港,http://s2.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+中天新闻,http://s2.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+美亚电影,http://s2.an94tv.cfd/aktv/hk/AKTV.m3u8
+天映频道,http://s2.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+POPC电影,http://s2.an94tv.cfd/aktv/popc/AKTV.m3u8
+PLUS综合,http://s2.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+无线新闻,http://s2.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+无线翡翠,http://s2.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+无线星河,http://s2.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+无线明珠,http://s2.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+无线赛马,http://s2.an94tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+无线翡剧,http://s2.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+无线明剧,http://s2.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+无线J1美,http://s2.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+TVBS新闻,http://s2.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
+TVBS高清,http://s2.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+东森新闻,http://s2.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+东森电影,http://s2.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+东森洋片,http://s2.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+民视高清,http://s2.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+民视第一,http://s2.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
+民视综艺,http://s2.an94tv.cfd/taiwan/CH-4/AKTV.m3u8
+中视高清,http://s2.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+中视经典,http://s2.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
+台视高清,http://s2.an94tv.cfd/taiwan/CH-2/AKTV.m3u8
+八度空间,http://s2.an94tv.cfd/astro/8tv/AKTV.m3u8
+纬来体育,http://s2.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+爱奇艺剧场,http://s2.an94tv.cfd/aktv2/iqiyi/AKTV.m3u8
+好莱坞电影,http://s2.an94tv.cfd/aktv2/CH-4/AKTV.m3u8
+朝鲜恩情,http://s2.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
+全天新闻,http://s2.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
+ANN新闻,http://s2.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+CNA新闻,http://s2.an94tv.cfd/aktv3/cna/AKTV.m3u8
+TVN韩综,http://s2.an94tv.cfd/aktv/tvn/AKTV.m3u8
+ROCK影综,http://s2.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+AXN,http://s2.an94tv.cfd/aktv/axn/AKTV.m3u8
+HBO,http://s2.an94tv.cfd/aktv2/hbo/AKTV.m3u8
+KPOP+,http://s2.an94tv.cfd/aktv3/kpop/AKTV.m3u8
+VIUTV,http://s2.an94tv.cfd/aktv2/viutv/AKTV.m3u8
+CHANNELU,http://s2.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
+CHANNEL5,http://s2.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
+CHANNEL8,http://s2.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 
 🎬数字高清,#genre#
 IPTV北京淘剧场,http://wuwenxidong.work:2333/udp/225.1.8.37:8002
