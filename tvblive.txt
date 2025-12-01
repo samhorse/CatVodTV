@@ -68,7 +68,6 @@ Y+ 剧 场,http://go.bkpcp.top/mg/yjjc
 中 学 生,http://go.bkpcp.top/mg/zxs
 老 故 事,http://go.bkpcp.top/mg/lgs
 发现之旅,http://go.bkpcp.top/mg/fxzl
-四海钓鱼,http://go.bkpcp.top/mg/shdy
 江苏新闻,http://go.bkpcp.top/mg/jsxw
 江苏城市,http://go.bkpcp.top/mg/jscs
 江苏综艺,http://go.bkpcp.top/mg/jszy
@@ -76,16 +75,17 @@ Y+ 剧 场,http://go.bkpcp.top/mg/yjjc
 江苏国际,http://go.bkpcp.top/mg/jsgj
 江苏教育,http://go.bkpcp.top/mg/jsjy
 山东教育,http://go.bkpcp.top/mg/sdjy
+北京影视,http://go.bkpcp.top/mg/bjys
 东方影视,http://go.bkpcp.top/mg/shys
+广东影视,http://go.bkpcp.top/mg/gdys
 重温经典,http://go.bkpcp.top/mg/cwjd
-高清大片,http://go.bkpcp.top/mg/gqdp
 香港电影,http://go.bkpcp.top/mg/xgdy
 热剧联播,http://go.bkpcp.top/mg/rjlb
 金色剧场,http://go.bkpcp.top/mg/jsjc
-新片放映厅,http://go.bkpcp.top/mg/xpfyt
-赛事最经典,http://go.bkpcp.top/mg/sszjd
+新片放映厅,http://go.bkpcp.top/mg/xpdy
 最强综艺趴,http://go.bkpcp.top/mg/zqzyp
-体坛名栏汇,http://go.bkpcp.top/mg/ttmhl
+体坛名栏汇,http://go.bkpcp.top/mg/ttmlh
+赛事最经典,http://go.bkpcp.top/mg/sszjd
 掼蛋精英赛,http://go.bkpcp.top/mg/dds
 军事迷必看大片,http://go.bkpcp.top/mg/jsm
 经典深圳旁边电影,http://go.bkpcp.top/mg/jddy
@@ -149,7 +149,6 @@ Y+ 剧 场,http://k.061899.xyz/m.php?id=yjjc
 中 学 生,http://k.061899.xyz/m.php?id=zxs
 老 故 事,http://k.061899.xyz/m.php?id=lgs
 发现之旅,http://k.061899.xyz/m.php?id=fxzl
-四海钓鱼,http://k.061899.xyz/m.php?id=shdy
 江苏新闻,http://k.061899.xyz/m.php?id=jsxw
 江苏城市,http://k.061899.xyz/m.php?id=jscs
 江苏综艺,http://k.061899.xyz/m.php?id=jszy
@@ -157,16 +156,17 @@ Y+ 剧 场,http://k.061899.xyz/m.php?id=yjjc
 江苏国际,http://k.061899.xyz/m.php?id=jsgj
 江苏教育,http://k.061899.xyz/m.php?id=jsjy
 山东教育,http://k.061899.xyz/m.php?id=sdjy
+北京影视,http://k.061899.xyz/m.php?id=bjys
 东方影视,http://k.061899.xyz/m.php?id=shys
+广东影视,http://k.061899.xyz/m.php?id=gdys
 重温经典,http://k.061899.xyz/m.php?id=cwjd
-高清大片,http://k.061899.xyz/m.php?id=gqdp
 香港电影,http://k.061899.xyz/m.php?id=xgdy
 热剧联播,http://k.061899.xyz/m.php?id=rjlb
 金色剧场,http://k.061899.xyz/m.php?id=jsjc
-新片放映厅,http://k.061899.xyz/m.php?id=xpfyt
-赛事最经典,http://k.061899.xyz/m.php?id=sszjd
+新片放映厅,http://k.061899.xyz/m.php?id=xpdy
 最强综艺趴,http://k.061899.xyz/m.php?id=zqzyp
-体坛名栏汇,http://k.061899.xyz/m.php?id=ttmhl
+体坛名栏汇,http://k.061899.xyz/m.php?id=ttmlh
+赛事最经典,http://k.061899.xyz/m.php?id=sszjd
 掼蛋精英赛,http://k.061899.xyz/m.php?id=dds
 军事迷必看大片,http://k.061899.xyz/m.php?id=jsm
 经典深圳旁边电影,http://k.061899.xyz/m.php?id=jddy
@@ -230,7 +230,6 @@ Y+ 剧 场,http://t.061899.xyz/tl/tl.php?id=yjjc
 中 学 生,http://t.061899.xyz/tl/tl.php?id=zxs
 老 故 事,http://t.061899.xyz/tl/tl.php?id=lgs
 发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
-四海钓鱼,http://t.061899.xyz/tl/tl.php?id=shdy
 江苏新闻,http://t.061899.xyz/tl/tl.php?id=jsxw
 江苏城市,http://t.061899.xyz/tl/tl.php?id=jscs
 江苏综艺,http://t.061899.xyz/tl/tl.php?id=jszy
@@ -238,16 +237,17 @@ Y+ 剧 场,http://t.061899.xyz/tl/tl.php?id=yjjc
 江苏国际,http://t.061899.xyz/tl/tl.php?id=jsgj
 江苏教育,http://t.061899.xyz/tl/tl.php?id=jsjy
 山东教育,http://t.061899.xyz/tl/tl.php?id=sdjy
+北京影视,http://t.061899.xyz/tl/tl.php?id=bjys
 东方影视,http://t.061899.xyz/tl/tl.php?id=shys
+广东影视,http://t.061899.xyz/tl/tl.php?id=gdys
 重温经典,http://t.061899.xyz/tl/tl.php?id=cwjd
-高清大片,http://t.061899.xyz/tl/tl.php?id=gqdp
 香港电影,http://t.061899.xyz/tl/tl.php?id=xgdy
 热剧联播,http://t.061899.xyz/tl/tl.php?id=rjlb
 金色剧场,http://t.061899.xyz/tl/tl.php?id=jsjc
-新片放映厅,http://t.061899.xyz/tl/tl.php?id=xpfyt
-赛事最经典,http://t.061899.xyz/tl/tl.php?id=sszjd
+新片放映厅,http://t.061899.xyz/tl/tl.php?id=xpdy
 最强综艺趴,http://t.061899.xyz/tl/tl.php?id=zqzyp
-体坛名栏汇,http://t.061899.xyz/tl/tl.php?id=ttmhl
+体坛名栏汇,http://t.061899.xyz/tl/tl.php?id=ttmlh
+赛事最经典,http://t.061899.xyz/tl/tl.php?id=sszjd
 掼蛋精英赛,http://t.061899.xyz/tl/tl.php?id=dds
 军事迷必看大片,http://t.061899.xyz/tl/tl.php?id=jsm
 经典深圳旁边电影,http://t.061899.xyz/tl/tl.php?id=jddy
@@ -3388,95 +3388,96 @@ MOMOTV,rtmp://9hv9.mine.nu/sat/tv761.flv
 阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 🏰港闽高清,#genre#
-凤凰中文,http://rihou.cc:555/tv/Hk|凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/Hk|凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/Hk|凤凰香港
-中天新闻,http://rihou.cc:555/tv/Hk|中天新闻
-寰宇新闻,http://rihou.cc:555/tv/Hk|寰宇新闻
-东森新闻,http://rihou.cc:555/tv/Hk|东森新闻
-中视新闻,http://rihou.cc:555/tv/Hk|中视新闻
-台视新闻,http://rihou.cc:555/tv/Hk|台视新闻
-PLUS综合,http://rihou.cc:555/tv/Hk|Plus综合
+凤凰中文,http://rihou.cc:555/tv/Hkl凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/Hkl凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/Hkl凤凰香港
+中天新闻,http://rihou.cc:555/tv/Hkl中天新闻
+寰宇新闻,http://rihou.cc:555/tv/Hkl寰宇新闻
+东森新闻,http://rihou.cc:555/tv/Hkl东森新闻
+中视新闻,http://rihou.cc:555/tv/Hkl中视新闻
+台视新闻,http://rihou.cc:555/tv/Hkl台视新闻
+PLUS综合,http://rihou.cc:555/tv/HklPlus综合
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-TVBS闽南,http://rihou.cc:555/tv/Hk|tvbs闽南
-TVBS新话,http://rihou.cc:555/tv/Hk|tvbs新话
-NOW新闻,http://rihou.cc:555/tv/Hk|Now新闻
-NOW英超,http://rihou.cc:555/tv/Hk|Now英超
-NOW星影国,http://rihou.cc:555/tv/Hk|Now星影
-NOW星影粤,http://rihou.cc:555/tv/Hk|Now星影|
-NOW爆谷国,http://rihou.cc:555/tv/Hk|Now爆谷
-NOW爆谷粤,http://rihou.cc:555/tv/Hk|Now爆谷|
-PₒₚC电影,http://rihou.cc:555/tv/Hk|pₒₚc电影
-美亚电影,http://rihou.cc:555/tv/Hk|美亚电影
-天映经典,http://rihou.cc:555/tv/Hk|天映经典
-高点综合,http://rihou.cc:555/tv/Hk|高点综合
-星空卫视,http://rihou.cc:555/tv/Hk|星空卫视
-高清剧场,http://rihou.cc:555/tv/Hk|高清剧场
-黄金华剧,http://rihou.cc:555/tv/Hk|黄金华剧
-黄金翡翠,http://rihou.cc:555/tv/Hk|黄金翡翠
-无线新闻,http://rihou.cc:555/tv/Hk|无线新闻
-无线翡翠,http://rihou.cc:555/tv/Hk|无线翡翠
-无线明珠,http://rihou.cc:555/tv/Hk|无线明珠
-无线翡剧,http://rihou.cc:555/tv/Hk|无线翡剧
-无线明剧,http://rihou.cc:555/tv/Hk|无线明剧
-无线华剧,http://rihou.cc:555/tv/Hk|无线华剧
-无线戏曲,http://rihou.cc:555/tv/Hk|无线戏曲
-无线奖门,http://rihou.cc:555/tv/Hk|无线奖门
-无线金曲,http://rihou.cc:555/tv/Hk|无线金曲
+TVBS闽南,http://rihou.cc:555/tv/Hkltvbs闽南
+TVBS新话,http://rihou.cc:555/tv/Hkltvbs新话
+NOW新闻,http://rihou.cc:555/tv/HklNow新闻
+NOW英超,http://rihou.cc:555/tv/HklNow英超
+NOW星影国,http://rihou.cc:555/tv/HklNow星影
+NOW爆谷国,http://rihou.cc:555/tv/HklNow爆谷
+PₒₚC电影,http://rihou.cc:555/tv/Hklpₒₚc电影
+美亚电影,http://rihou.cc:555/tv/Hkl美亚电影
+天映经典,http://rihou.cc:555/tv/Hkl天映经典
+高点综合,http://rihou.cc:555/tv/Hkl高点综合
+星空卫视,http://rihou.cc:555/tv/Hkl星空卫视
+高清剧场,http://rihou.cc:555/tv/Hkl高清剧场
+黄金华剧,http://rihou.cc:555/tv/Hkl黄金华剧
+黄金翡翠,http://rihou.cc:555/tv/Hkl黄金翡翠
+无线新闻,http://rihou.cc:555/tv/Hkl无线新闻
+无线翡翠,http://rihou.cc:555/tv/Hkl无线翡翠
+无线明珠,http://rihou.cc:555/tv/Hkl无线明珠
+无线翡剧,http://rihou.cc:555/tv/Hkl无线翡剧
+无线明剧,http://rihou.cc:555/tv/Hkl无线明剧
+无线华剧,http://rihou.cc:555/tv/Hkl无线华剧
+无线戏曲,http://rihou.cc:555/tv/Hkl无线戏曲
+无线奖门,http://rihou.cc:555/tv/Hkl无线奖门
+无线金曲,http://rihou.cc:555/tv/Hkl无线金曲
 
-PLUS综合,http://rihou.cc:555/tv/Pd|Plus综合
-凤凰中文,http://rihou.cc:555/tv/Pd|凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/Pd|凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/Pd|凤凰香港
-有线综合,http://rihou.cc:555/tv/Pd|有线综合
-无线新闻,http://rihou.cc:555/tv/Pd|无线新闻
-无线翡翠,http://rihou.cc:555/tv/Pd|无线翡翠
-无线翡翠,http://rihou.cc:555/tv/Pd|无线翡4K
-无线明珠,http://rihou.cc:555/tv/Pd|无线明珠
-无线星河,http://rihou.cc:555/tv/Pd|无线星河
-无线功夫,http://rihou.cc:555/tv/Pd|无线功夫
-澳视澳门,http://rihou.cc:555/tv/Pd|澳视澳门
-澳视卫星,http://rihou.cc:555/tv/Pd|澳视卫星
-八度空间,http://rihou.cc:555/tv/Pd|八度空间
-央视综合,http://rihou.cc:555/tv/Pd|央视综合
-CHU综合,http://rihou.cc:555/tv/Pd|CHU综合
-CH5综合,http://rihou.cc:555/tv/Pd|CH5综合
-CH8综合,http://rihou.cc:555/tv/Pd|CH8综合
+PLUS综合,http://rihou.cc:555/tv/PdlPlus综合
+凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
+有线综合,http://rihou.cc:555/tv/Pdl有线综合
+无线新闻,http://rihou.cc:555/tv/Pdl无线新闻
+无线翡翠,http://rihou.cc:555/tv/Pdl无线翡翠
+无线翡翠,http://rihou.cc:555/tv/Pdl无线翡4K
+无线明珠,http://rihou.cc:555/tv/Pdl无线明珠
+无线星河,http://rihou.cc:555/tv/Pdl无线星河
+无线功夫,http://rihou.cc:555/tv/Pdl无线功夫
+澳视澳门,http://rihou.cc:555/tv/Pdl澳视澳门
+澳视卫星,http://rihou.cc:555/tv/Pdl澳视卫星
+澳门体育,http://rihou.cc:555/tv/Pdl澳门体育
+澳门综艺,http://rihou.cc:555/tv/Pdl澳门综艺
+澳门莲花,http://rihou.cc:555/tv/Pdl澳门莲花
+八度空间,http://rihou.cc:555/tv/Pdl八度空间
+央视综合,http://rihou.cc:555/tv/Pdl央视综合
+CHU综合,http://rihou.cc:555/tv/PdlCHU综合
+CH5综合,http://rihou.cc:555/tv/PdlCH5综合
+CH8综合,http://rihou.cc:555/tv/PdlCH8综合
 
-有线新闻,http://rihou.cc:555/tv/Mt|有线新闻
-无线新闻,http://rihou.cc:555/tv/Mt|无线新闻
-无线翡翠,http://rihou.cc:555/tv/Mt|无线翡翠
-无线明珠,http://rihou.cc:555/tv/Mt|无线明珠
-有线赛讯,http://rihou.cc:555/tv/Mt|有线赛讯
-有线综合,http://rihou.cc:555/tv/Mt|有线综合
-PLUS综合,http://rihou.cc:555/tv/Mt|Plus综合
-NOW新闻,http://rihou.cc:555/tv/Mt|Now新闻
-NOW财经,http://rihou.cc:555/tv/Mt|Now财经
-NOW直播,http://rihou.cc:555/tv/Mt|Now直播
-NOW体育,http://rihou.cc:555/tv/Mt|Now体育
-NOW星影粤,http://rihou.cc:555/tv/Mt|Now星影
-NOW爆谷粤,http://rihou.cc:555/tv/Mt|Now爆谷
-RTHK-31,http://rihou.cc:555/tv/Mt|RTHK-31
-RTHK-32,http://rihou.cc:555/tv/Mt|RTHK-32
-VIUTV-1,http://rihou.cc:555/tv/Mt|VIUTV粤
-VIUTV-6,http://rihou.cc:555/tv/Mt|VIUTV英
-VIUTV全运-1,http://rihou.cc:555/tv/Mt|VIUTV壹
-VIUTV全运-2,http://rihou.cc:555/tv/Mt|VIUTV贰
+有线新闻,http://rihou.cc:555/tv/Mtl有线新闻
+无线新闻,http://rihou.cc:555/tv/Mtl无线新闻
+无线翡翠,http://rihou.cc:555/tv/Mtl无线翡翠
+无线明珠,http://rihou.cc:555/tv/Mtl无线明珠
+有线赛讯,http://rihou.cc:555/tv/Mtl有线赛讯
+有线综合,http://rihou.cc:555/tv/Mtl有线综合
+PLUS综合,http://rihou.cc:555/tv/MtlPlus综合
+NOW新闻,http://rihou.cc:555/tv/MtlNow新闻
+NOW财经,http://rihou.cc:555/tv/MtlNow财经
+NOW直播,http://rihou.cc:555/tv/MtlNow直播
+NOW体育,http://rihou.cc:555/tv/MtlNow体育
+NOW星影粤,http://rihou.cc:555/tv/MtlNow星影
+NOW爆谷粤,http://rihou.cc:555/tv/MtlNow爆谷
+RTHK-31,http://rihou.cc:555/tv/MtlRTHK-31
+RTHK-32,http://rihou.cc:555/tv/MtlRTHK-32
+VIUTV-1,http://rihou.cc:555/tv/MtlVIUTV粤
+VIUTV-6,http://rihou.cc:555/tv/MtlVIUTV英
+VIUTV全运-1,http://rihou.cc:555/tv/MtlVIUTV壹
+VIUTV全运-2,http://rihou.cc:555/tv/MtlVIUTV贰
 
-无线新闻,http://rihou.cc:555/tv/Bx|无线新闻
-中天新闻,http://rihou.cc:555/tv/Bx|中天新闻
-PLUS综合,http://rihou.cc:555/tv/Bx|Plus综合
-PₒₚC电影,http://rihou.cc:555/tv/Bx|pₒₚc电影
-NOW星影粤,http://rihou.cc:555/tv/Bx|Now星影
-NOW爆谷粤,http://rihou.cc:555/tv/Bx|Now爆谷
-美亞电影,http://rihou.cc:555/tv/Bx|美亚电影
-凤凰资讯,http://rihou.cc:555/tv/Bx|凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/Bx|凤凰香港
-无线翡翠,http://rihou.cc:555/tv/Bx|无线翡翠
-无线明珠,http://rihou.cc:555/tv/Bx|无线明珠
-无线功夫,http://rihou.cc:555/tv/Bx|无线功夫
-无线千禧,http://rihou.cc:555/tv/Bx|无线千禧
-无线赛马,http://rihou.cc:555/tv/Bx|无线赛马
+无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
+中天新闻,http://rihou.cc:555/tv/Bxl中天新闻
+PLUS综合,http://rihou.cc:555/tv/BxlPlus综合
+PₒₚC电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
+NOW星影粤,http://rihou.cc:555/tv/BxlNow星影
+NOW爆谷粤,http://rihou.cc:555/tv/BxlNow爆谷
+美亞电影,http://rihou.cc:555/tv/Bxl美亚电影
+凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
+无线翡翠,http://rihou.cc:555/tv/Bxl无线翡翠
+无线明珠,http://rihou.cc:555/tv/Bxl无线明珠
+无线功夫,http://rihou.cc:555/tv/Bxl无线功夫
+无线千禧,http://rihou.cc:555/tv/Bxl无线千禧
+无线赛马,http://rihou.cc:555/tv/Bxl无线赛马
 
 有线综合,http://cdn.163189.xyz/163189/hoy
 NOW新闻,http://cdn.163189.xyz/163189/now
@@ -8322,6 +8323,589 @@ PPTV-4,http://www.3344.uk:8888/udp/239.77.1.186:5146
 广视课堂高一年级,http://www.3344.uk:8888/udp/239.253.43.92:5146
 广视课堂高二年级,http://www.3344.uk:8888/udp/239.253.43.93:5146
 
+CCTV-1,http://t1.huase.ltd:8888/udp/239.77.0.30:5146
+CCTV-1,http://t1.huase.ltd:8888/udp/239.77.1.20:5146
+CCTV-1,http://t1.huase.ltd:8888/udp/239.77.1.17:5146
+CCTV-1,http://t1.huase.ltd:8888/udp/239.77.1.144:5146
+CCTV-1,http://t1.huase.ltd:8888/udp/239.77.0.86:5146
+CCTV-1,http://t1.huase.ltd:8888/udp/239.77.0.129:5146
+CCTV-2,http://t1.huase.ltd:8888/udp/239.77.0.31:5146
+CCTV-2,http://t1.huase.ltd:8888/udp/239.77.1.28:5146
+CCTV-2,http://t1.huase.ltd:8888/udp/239.77.1.158:5146
+CCTV-2,http://t1.huase.ltd:8888/udp/239.77.0.137:5146
+CCTV-2,http://t1.huase.ltd:8888/udp/239.253.43.17:5146
+CCTV-3,http://t1.huase.ltd:8888/udp/239.0.10.52:5052
+CCTV-3,http://t1.huase.ltd:8888/udp/239.77.0.32:5146
+CCTV-3,http://t1.huase.ltd:8888/udp/239.77.0.169:5146
+CCTV-3,http://t1.huase.ltd:8888/udp/239.77.0.175:5146
+CCTV-4,http://t1.huase.ltd:8888/udp/239.77.0.33:5146
+CCTV-4,http://t1.huase.ltd:8888/udp/239.77.1.41:5146
+CCTV-4,http://t1.huase.ltd:8888/udp/239.77.1.163:5146
+CCTV-4,http://t1.huase.ltd:8888/udp/239.77.1.166:5146
+CCTV-4,http://t1.huase.ltd:8888/udp/239.77.0.78:5146
+CCTV-5,http://t1.huase.ltd:8888/udp/239.0.10.53:5053
+CCTV-5,http://t1.huase.ltd:8888/udp/239.77.0.34:5146
+CCTV-5,http://t1.huase.ltd:8888/udp/239.77.0.241:5146
+CCTV-5,http://t1.huase.ltd:8888/udp/239.77.0.170:5146
+CCTV-5,http://t1.huase.ltd:8888/udp/239.77.0.177:5146
+CCTV-5+,http://t1.huase.ltd:8888/udp/239.77.1.146:5146
+CCTV-5+,http://t1.huase.ltd:8888/udp/239.77.0.87:5146
+CCTV-5+,http://t1.huase.ltd:8888/udp/239.77.1.31:5146
+CCTV-5+,http://t1.huase.ltd:8888/udp/239.77.1.147:5146
+CCTV-6,http://t1.huase.ltd:8888/udp/239.0.10.54:5054
+CCTV-6,http://t1.huase.ltd:8888/udp/239.77.0.35:5146
+CCTV-6,http://t1.huase.ltd:8888/udp/239.77.0.171:5146
+CCTV-6,http://t1.huase.ltd:8888/udp/239.77.0.178:5146
+CCTV-7,http://t1.huase.ltd:8888/udp/239.77.0.36:5146
+CCTV-7,http://t1.huase.ltd:8888/udp/239.77.1.24:5146
+CCTV-7,http://t1.huase.ltd:8888/udp/239.77.1.159:5146
+CCTV-7,http://t1.huase.ltd:8888/udp/239.77.1.167:5146
+CCTV-7,http://t1.huase.ltd:8888/udp/239.77.0.138:5146
+CCTV-8,http://t1.huase.ltd:8888/udp/239.0.10.55:5055
+CCTV-8,http://t1.huase.ltd:8888/udp/239.77.0.37:5146
+CCTV-8,http://t1.huase.ltd:8888/udp/239.77.0.172:5146
+CCTV-8,http://t1.huase.ltd:8888/udp/239.77.0.181:5146
+CCTV-9,http://t1.huase.ltd:8888/udp/239.77.0.38:5146
+CCTV-9,http://t1.huase.ltd:8888/udp/239.77.1.65:5146
+CCTV-9,http://t1.huase.ltd:8888/udp/239.77.1.160:5146
+CCTV-9,http://t1.huase.ltd:8888/udp/239.77.1.168:5146
+CCTV-9,http://t1.huase.ltd:8888/udp/239.77.0.135:5146
+CCTV-10,http://t1.huase.ltd:8888/udp/239.77.0.39:5146
+CCTV-10,http://t1.huase.ltd:8888/udp/239.77.1.25:5146
+CCTV-10,http://t1.huase.ltd:8888/udp/239.77.1.113:5146
+CCTV-10,http://t1.huase.ltd:8888/udp/239.77.1.169:5146
+CCTV-10,http://t1.huase.ltd:8888/udp/239.77.0.134:5146
+CCTV-11,http://t1.huase.ltd:8888/udp/239.77.0.40:5146
+CCTV-11,http://t1.huase.ltd:8888/udp/239.77.1.42:5146
+CCTV-11,http://t1.huase.ltd:8888/udp/239.77.1.238:5146
+CCTV-12,http://t1.huase.ltd:8888/udp/239.77.0.41:5146
+CCTV-12,http://t1.huase.ltd:8888/udp/239.77.1.10:5146
+CCTV-12,http://t1.huase.ltd:8888/udp/239.77.1.109:5146
+CCTV-12,http://t1.huase.ltd:8888/udp/239.77.1.170:5146
+CCTV-12,http://t1.huase.ltd:8888/udp/239.77.0.136:5146
+CCTV-13,http://t1.huase.ltd:8888/udp/239.77.0.42:5146
+CCTV-13,http://t1.huase.ltd:8888/udp/239.77.1.26:5146
+CCTV-13,http://t1.huase.ltd:8888/udp/239.77.0.188:5146
+CCTV-13,http://t1.huase.ltd:8888/udp/239.253.43.196:5146
+CCTV-14,http://t1.huase.ltd:8888/udp/239.77.0.43:5146
+CCTV-14,http://t1.huase.ltd:8888/udp/239.77.1.43:5146
+CCTV-14,http://t1.huase.ltd:8888/udp/239.77.1.161:5146
+CCTV-14,http://t1.huase.ltd:8888/udp/239.77.1.171:5146
+CCTV-14,http://t1.huase.ltd:8888/udp/239.77.0.133:5146
+CCTV-15,http://t1.huase.ltd:8888/udp/239.77.0.44:5146
+CCTV-15,http://t1.huase.ltd:8888/udp/239.77.1.11:5146
+CCTV-15,http://t1.huase.ltd:8888/udp/239.77.1.239:5146
+CCTV-16,http://t1.huase.ltd:8888/udp/239.77.1.76:5146
+CCTV-16,http://t1.huase.ltd:8888/udp/239.77.0.165:5146
+CCTV-17,http://t1.huase.ltd:8888/udp/239.77.0.115:5146
+CCTV-17,http://t1.huase.ltd:8888/udp/239.77.1.123:5146
+CCTV-17,http://t1.huase.ltd:8888/udp/239.77.1.121:5146
+CCTV-17,http://t1.huase.ltd:8888/udp/239.77.0.198:5146
+CCTV-4K,http://t1.huase.ltd:8888/udp/239.77.0.194:5146
+CCTV-4K,http://t1.huase.ltd:8888/udp/239.77.0.174:5146
+CCTV-8K,http://t1.huase.ltd:8888/udp/239.253.43.106:5146
+CCTV16-4K,http://t1.huase.ltd:8888/udp/239.77.1.98:5146
+CCTV-4欧洲,http://t1.huase.ltd:8888/udp/239.253.43.120:5146
+CCTV-4美洲,http://t1.huase.ltd:8888/udp/239.253.43.121:5146
+CCTV-风云足球,http://t1.huase.ltd:8888/udp/239.253.43.20:5146
+CCTV-风云足球,http://t1.huase.ltd:8888/udp/239.253.43.14:5146
+CCTV-风云音乐,http://t1.huase.ltd:8888/udp/239.253.43.29:5146
+CCTV-风云音乐,http://t1.huase.ltd:8888/udp/239.253.43.6:5146
+CCTV-第一剧场,http://t1.huase.ltd:8888/udp/239.253.43.28:5146
+CCTV-第一剧场,http://t1.huase.ltd:8888/udp/239.253.43.15:5146
+CCTV-怀旧剧场,http://t1.huase.ltd:8888/udp/239.253.43.25:5146
+CCTV-怀旧剧场,http://t1.huase.ltd:8888/udp/239.253.43.5:5146
+CCTV-风云剧场,http://t1.huase.ltd:8888/udp/239.253.43.26:5146
+CCTV-风云剧场,http://t1.huase.ltd:8888/udp/239.253.43.16:5146
+CCTV-世界地理,http://t1.huase.ltd:8888/udp/239.253.43.24:5146
+CCTV-世界地理,http://t1.huase.ltd:8888/udp/239.253.43.7:5146
+CCTV-电视指南,http://t1.huase.ltd:8888/udp/239.253.43.19:5146
+CCTV-电视指南,http://t1.huase.ltd:8888/udp/239.253.43.10:5146
+CCTV-兵器科技,http://t1.huase.ltd:8888/udp/239.253.43.18:5146
+CCTV-兵器科技,http://t1.huase.ltd:8888/udp/239.253.43.9:5146
+CCTV-女性时尚,http://t1.huase.ltd:8888/udp/239.253.43.23:5146
+CCTV-女性时尚,http://t1.huase.ltd:8888/udp/239.253.43.8:5146
+CCTV-央视台球,http://t1.huase.ltd:8888/udp/239.253.43.21:5146
+CCTV-央视台球,http://t1.huase.ltd:8888/udp/239.253.43.11:5146
+CCTV-高尔夫网球,http://t1.huase.ltd:8888/udp/239.253.43.22:5146
+CCTV-高尔夫网球,http://t1.huase.ltd:8888/udp/239.253.43.12:5146
+CCTV-央视文化精品,http://t1.huase.ltd:8888/udp/239.253.43.27:5146
+CCTV-央视文化精品,http://t1.huase.ltd:8888/udp/239.253.43.13:5146
+CETV-1中教,http://t1.huase.ltd:8888/udp/239.77.0.82:5146
+CETV-1中教,http://t1.huase.ltd:8888/udp/239.77.1.46:5146
+CETV-1中教,http://t1.huase.ltd:8888/udp/239.77.1.222:5146
+CETV-1中教,http://t1.huase.ltd:8888/udp/239.77.0.200:5146
+CETV-2中教,http://t1.huase.ltd:8888/udp/239.77.0.28:5146
+CETV-2中教,http://t1.huase.ltd:8888/udp/239.77.1.69:5146
+CETV-4中教,http://t1.huase.ltd:8888/udp/239.77.0.29:5146
+CETV-4中教,http://t1.huase.ltd:8888/udp/239.77.1.68:5146
+CETV-4中教,http://t1.huase.ltd:8888/udp/239.77.1.200:5146
+CETV-4中教,http://t1.huase.ltd:8888/udp/239.253.43.40:5146
+CETV-4中教,http://t1.huase.ltd:8888/udp/239.253.43.114:5146
+CGTN-英语,http://t1.huase.ltd:8888/udp/239.77.0.199:5146
+CGTN-英语,http://t1.huase.ltd:8888/udp/239.77.0.45:5146
+CGTN-英语,http://t1.huase.ltd:8888/udp/239.77.1.27:5146
+CGTN-纪录,http://t1.huase.ltd:8888/udp/239.253.43.122:5146
+CGTN-西语,http://t1.huase.ltd:8888/udp/239.77.0.221:5146
+CGTN-法语,http://t1.huase.ltd:8888/udp/239.77.0.228:5146
+CGTN-阿语,http://t1.huase.ltd:8888/udp/239.253.43.200:5146
+CGTN-俄语,http://t1.huase.ltd:8888/udp/239.253.43.201:5146
+CHC影迷电影,http://t1.huase.ltd:8888/udp/239.77.0.27:5146
+广东卫视,http://t1.huase.ltd:8888/udp/239.77.0.2:5146
+广东卫视,http://t1.huase.ltd:8888/udp/239.77.1.2:5146
+广东卫视,http://t1.huase.ltd:8888/udp/239.77.1.19:5146
+广东卫视,http://t1.huase.ltd:8888/udp/239.77.1.152:5146
+广东卫视,http://t1.huase.ltd:8888/udp/239.77.0.232:5146
+广东卫视,http://t1.huase.ltd:8888/udp/239.77.0.84:5146
+广东卫视,http://t1.huase.ltd:8888/udp/239.77.0.166:5146
+深圳卫视,http://t1.huase.ltd:8888/udp/239.77.0.55:5146
+深圳卫视,http://t1.huase.ltd:8888/udp/239.77.1.21:5146
+深圳卫视,http://t1.huase.ltd:8888/udp/239.77.1.3:5146
+深圳卫视,http://t1.huase.ltd:8888/udp/239.77.1.148:5146
+深圳卫视,http://t1.huase.ltd:8888/udp/239.77.0.92:5146
+深圳卫视,http://t1.huase.ltd:8888/udp/239.77.0.130:5146
+南方卫视,http://t1.huase.ltd:8888/udp/239.77.0.9:5146
+南方卫视,http://t1.huase.ltd:8888/udp/239.77.0.215:5146
+南方卫视,http://t1.huase.ltd:8888/udp/239.77.1.12:5146
+湖南卫视,http://t1.huase.ltd:8888/udp/239.77.0.46:5146
+湖南卫视,http://t1.huase.ltd:8888/udp/239.77.1.29:5146
+湖南卫视,http://t1.huase.ltd:8888/udp/239.77.1.5:5146
+湖南卫视,http://t1.huase.ltd:8888/udp/239.77.1.129:5146
+湖南卫视,http://t1.huase.ltd:8888/udp/239.77.0.88:5146
+湖南卫视,http://t1.huase.ltd:8888/udp/239.77.0.127:5146
+浙江卫视,http://t1.huase.ltd:8888/udp/239.77.0.47:5146
+浙江卫视,http://t1.huase.ltd:8888/udp/239.77.1.32:5146
+浙江卫视,http://t1.huase.ltd:8888/udp/239.77.1.33:5146
+浙江卫视,http://t1.huase.ltd:8888/udp/239.77.1.150:5146
+浙江卫视,http://t1.huase.ltd:8888/udp/239.77.0.89:5146
+浙江卫视,http://t1.huase.ltd:8888/udp/239.77.0.125:5146
+江苏卫视,http://t1.huase.ltd:8888/udp/239.77.0.48:5146
+江苏卫视,http://t1.huase.ltd:8888/udp/239.77.0.90:5146
+江苏卫视,http://t1.huase.ltd:8888/udp/239.77.1.40:5146
+江苏卫视,http://t1.huase.ltd:8888/udp/239.77.1.18:5146
+江苏卫视,http://t1.huase.ltd:8888/udp/239.77.1.149:5146
+江苏卫视,http://t1.huase.ltd:8888/udp/239.77.0.126:5146
+东方卫视,http://t1.huase.ltd:8888/udp/239.77.0.49:5146
+东方卫视,http://t1.huase.ltd:8888/udp/239.77.1.48:5146
+东方卫视,http://t1.huase.ltd:8888/udp/239.77.0.98:5146
+东方卫视,http://t1.huase.ltd:8888/udp/239.77.1.218:5146
+东方卫视,http://t1.huase.ltd:8888/udp/239.77.1.156:5146
+安徽卫视,http://t1.huase.ltd:8888/udp/239.77.0.50:5146
+安徽卫视,http://t1.huase.ltd:8888/udp/239.77.1.13:5146
+安徽卫视,http://t1.huase.ltd:8888/udp/239.77.1.92:5146
+安徽卫视,http://t1.huase.ltd:8888/udp/239.77.1.157:5146
+安徽卫视,http://t1.huase.ltd:8888/udp/239.77.0.183:5146
+北京卫视,http://t1.huase.ltd:8888/udp/239.77.0.51:5146
+北京卫视,http://t1.huase.ltd:8888/udp/239.77.1.14:5146
+北京卫视,http://t1.huase.ltd:8888/udp/239.77.1.4:5146
+北京卫视,http://t1.huase.ltd:8888/udp/239.77.1.151:5146
+北京卫视,http://t1.huase.ltd:8888/udp/239.77.0.91:5146
+天津卫视,http://t1.huase.ltd:8888/udp/239.77.0.52:5146
+天津卫视,http://t1.huase.ltd:8888/udp/239.77.1.37:5146
+天津卫视,http://t1.huase.ltd:8888/udp/239.77.1.141:5146
+天津卫视,http://t1.huase.ltd:8888/udp/239.77.1.182:5146
+天津卫视,http://t1.huase.ltd:8888/udp/239.77.0.97:5146
+天津卫视,http://t1.huase.ltd:8888/udp/239.77.0.131:5146
+山东卫视,http://t1.huase.ltd:8888/udp/239.77.0.53:5146
+山东卫视,http://t1.huase.ltd:8888/udp/239.77.1.66:5146
+山东卫视,http://t1.huase.ltd:8888/udp/239.77.1.142:5146
+山东卫视,http://t1.huase.ltd:8888/udp/239.77.1.153:5146
+山东卫视,http://t1.huase.ltd:8888/udp/239.77.0.94:5146
+山东卫视,http://t1.huase.ltd:8888/udp/239.77.0.132:5146
+江西卫视,http://t1.huase.ltd:8888/udp/239.77.0.54:5146
+江西卫视,http://t1.huase.ltd:8888/udp/239.77.1.73:5146
+江西卫视,http://t1.huase.ltd:8888/udp/239.77.1.219:5146
+江西卫视,http://t1.huase.ltd:8888/udp/239.77.0.149:5146
+湖北卫视,http://t1.huase.ltd:8888/udp/239.77.0.56:5146
+湖北卫视,http://t1.huase.ltd:8888/udp/239.77.1.44:5146
+湖北卫视,http://t1.huase.ltd:8888/udp/239.77.1.93:5146
+湖北卫视,http://t1.huase.ltd:8888/udp/239.77.1.174:5146
+湖北卫视,http://t1.huase.ltd:8888/udp/239.77.0.95:5146
+湖北卫视,http://t1.huase.ltd:8888/udp/239.77.0.128:5146
+辽宁卫视,http://t1.huase.ltd:8888/udp/239.77.0.57:5146
+辽宁卫视,http://t1.huase.ltd:8888/udp/239.77.1.62:5146
+辽宁卫视,http://t1.huase.ltd:8888/udp/239.77.1.103:5146
+辽宁卫视,http://t1.huase.ltd:8888/udp/239.77.0.123:5146
+辽宁卫视,http://t1.huase.ltd:8888/udp/239.77.0.161:5146
+贵州卫视,http://t1.huase.ltd:8888/udp/239.77.0.59:5146
+贵州卫视,http://t1.huase.ltd:8888/udp/239.77.1.61:5146
+贵州卫视,http://t1.huase.ltd:8888/udp/239.77.1.221:5146
+贵州卫视,http://t1.huase.ltd:8888/udp/239.77.0.230:5146
+四川卫视,http://t1.huase.ltd:8888/udp/239.77.0.60:5146
+四川卫视,http://t1.huase.ltd:8888/udp/239.77.1.215:5146
+四川卫视,http://t1.huase.ltd:8888/udp/239.77.0.163:5146
+河南卫视,http://t1.huase.ltd:8888/udp/239.77.0.61:5146
+河南卫视,http://t1.huase.ltd:8888/udp/239.77.1.58:5146
+河南卫视,http://t1.huase.ltd:8888/udp/239.77.1.229:5146
+河南卫视,http://t1.huase.ltd:8888/udp/239.77.0.17:5146
+云南卫视,http://t1.huase.ltd:8888/udp/239.77.0.62:5146
+云南卫视,http://t1.huase.ltd:8888/udp/239.77.1.72:5146
+云南卫视,http://t1.huase.ltd:8888/udp/239.253.43.37:5146
+云南卫视,http://t1.huase.ltd:8888/udp/239.253.43.100:5146
+重庆卫视,http://t1.huase.ltd:8888/udp/239.77.0.63:5146
+重庆卫视,http://t1.huase.ltd:8888/udp/239.77.1.16:5146
+重庆卫视,http://t1.huase.ltd:8888/udp/239.77.1.162:5146
+重庆卫视,http://t1.huase.ltd:8888/udp/239.77.1.210:5146
+重庆卫视,http://t1.huase.ltd:8888/udp/239.77.0.182:5146
+河北卫视,http://t1.huase.ltd:8888/udp/239.77.0.64:5146
+河北卫视,http://t1.huase.ltd:8888/udp/239.77.1.60:5146
+河北卫视,http://t1.huase.ltd:8888/udp/239.77.1.214:5146
+河北卫视,http://t1.huase.ltd:8888/udp/239.77.0.148:5146
+东南卫视,http://t1.huase.ltd:8888/udp/239.77.0.65:5146
+东南卫视,http://t1.huase.ltd:8888/udp/239.77.1.1:5146
+东南卫视,http://t1.huase.ltd:8888/udp/239.77.1.213:5146
+东南卫视,http://t1.huase.ltd:8888/udp/239.77.1.104:5146
+东南卫视,http://t1.huase.ltd:8888/udp/239.77.0.146:5146
+广西卫视,http://t1.huase.ltd:8888/udp/239.77.0.66:5146
+广西卫视,http://t1.huase.ltd:8888/udp/239.77.1.59:5146
+广西卫视,http://t1.huase.ltd:8888/udp/239.253.43.36:5146
+广西卫视,http://t1.huase.ltd:8888/udp/239.77.0.139:5146
+吉林卫视,http://t1.huase.ltd:8888/udp/239.77.0.67:5146
+吉林卫视,http://t1.huase.ltd:8888/udp/239.77.1.45:5146
+吉林卫视,http://t1.huase.ltd:8888/udp/239.77.1.111:5146
+吉林卫视,http://t1.huase.ltd:8888/udp/239.77.0.150:5146
+陕西卫视,http://t1.huase.ltd:8888/udp/239.77.0.68:5146
+陕西卫视,http://t1.huase.ltd:8888/udp/239.77.1.54:5146
+山西卫视,http://t1.huase.ltd:8888/udp/239.77.0.69:5146
+山西卫视,http://t1.huase.ltd:8888/udp/239.77.1.74:5146
+青海卫视,http://t1.huase.ltd:8888/udp/239.77.0.71:5146
+青海卫视,http://t1.huase.ltd:8888/udp/239.77.1.70:5146
+海南卫视,http://t1.huase.ltd:8888/udp/239.77.0.72:5146
+海南卫视,http://t1.huase.ltd:8888/udp/239.77.1.51:5146
+海南卫视,http://t1.huase.ltd:8888/udp/239.253.43.35:5146
+海南卫视,http://t1.huase.ltd:8888/udp/239.253.43.101:5146
+宁夏卫视,http://t1.huase.ltd:8888/udp/239.77.0.73:5146
+宁夏卫视,http://t1.huase.ltd:8888/udp/239.77.1.47:5146
+西藏卫视,http://t1.huase.ltd:8888/udp/239.77.0.74:5146
+西藏卫视,http://t1.huase.ltd:8888/udp/239.77.1.49:5146
+新疆卫视,http://t1.huase.ltd:8888/udp/239.77.0.75:5146
+新疆卫视,http://t1.huase.ltd:8888/udp/239.77.1.53:5146
+甘肃卫视,http://t1.huase.ltd:8888/udp/239.77.0.76:5146
+甘肃卫视,http://t1.huase.ltd:8888/udp/239.77.1.57:5146
+甘肃卫视,http://t1.huase.ltd:8888/udp/239.77.0.189:5146
+兵团卫视,http://t1.huase.ltd:8888/udp/239.77.0.77:5146
+兵团卫视,http://t1.huase.ltd:8888/udp/239.77.1.80:5146
+厦门卫视,http://t1.huase.ltd:8888/udp/239.77.0.96:5146
+三沙卫视,http://t1.huase.ltd:8888/udp/239.77.0.152:5146
+三沙卫视,http://t1.huase.ltd:8888/udp/239.77.1.117:5146
+延边卫视,http://t1.huase.ltd:8888/udp/239.77.0.10:5146
+延边卫视,http://t1.huase.ltd:8888/udp/239.77.1.99:5146
+内蒙古卫视,http://t1.huase.ltd:8888/udp/239.77.0.70:5146
+内蒙古卫视,http://t1.huase.ltd:8888/udp/239.77.1.55:5146
+黑龙江卫视,http://t1.huase.ltd:8888/udp/239.77.0.58:5146
+黑龙江卫视,http://t1.huase.ltd:8888/udp/239.77.1.71:5146
+黑龙江卫视,http://t1.huase.ltd:8888/udp/239.77.1.6:5146
+黑龙江卫视,http://t1.huase.ltd:8888/udp/239.77.1.179:5146
+黑龙江卫视,http://t1.huase.ltd:8888/udp/239.77.0.93:5146
+黑龙江卫视,http://t1.huase.ltd:8888/udp/239.77.0.124:5146
+中 学 生,http://t1.huase.ltd:8888/udp/239.77.1.195:5146
+老 故 事,http://t1.huase.ltd:8888/udp/239.77.0.220:5146
+老 故 事,http://t1.huase.ltd:8888/udp/239.77.1.197:5146
+新 动 漫,http://t1.huase.ltd:8888/udp/239.77.1.136:5146
+卡酷少儿,http://t1.huase.ltd:8888/udp/239.77.0.79:5146
+卡酷少儿,http://t1.huase.ltd:8888/udp/239.77.1.50:5146
+金鹰卡通,http://t1.huase.ltd:8888/udp/239.77.0.80:5146
+金鹰卡通,http://t1.huase.ltd:8888/udp/239.77.1.52:5146
+金鹰卡通,http://t1.huase.ltd:8888/udp/239.77.0.164:5146
+嘉佳卡通,http://t1.huase.ltd:8888/udp/239.77.0.13:5146
+嘉佳卡通,http://t1.huase.ltd:8888/udp/239.77.1.15:5146
+嘉佳卡通,http://t1.huase.ltd:8888/udp/239.77.0.179:5146
+优漫卡通,http://t1.huase.ltd:8888/udp/239.77.0.222:5146
+优漫卡通,http://t1.huase.ltd:8888/udp/239.77.1.79:5146
+哈哈炫动,http://t1.huase.ltd:8888/udp/239.77.0.81:5146
+哈哈炫动,http://t1.huase.ltd:8888/udp/239.77.1.139:5146
+早期教育,http://t1.huase.ltd:8888/udp/239.77.0.180:5146
+山东教育,http://t1.huase.ltd:8888/udp/239.77.0.83:5146
+山东教育,http://t1.huase.ltd:8888/udp/239.77.1.35:5146
+南方购物,http://t1.huase.ltd:8888/udp/239.77.0.19:5146
+南方购物,http://t1.huase.ltd:8888/udp/239.77.0.22:5146
+岭南戏曲,http://t1.huase.ltd:8888/udp/239.77.0.16:5146
+现代教育,http://t1.huase.ltd:8888/udp/239.77.0.18:5146
+财富天下,http://t1.huase.ltd:8888/udp/239.77.0.113:5146
+财富天下,http://t1.huase.ltd:8888/udp/239.77.1.81:5146
+中国交通,http://t1.huase.ltd:8888/udp/239.77.1.249:5146
+中国天气,http://t1.huase.ltd:8888/udp/239.77.1.143:5146
+茶友频道,http://t1.huase.ltd:8888/udp/239.77.0.15:5146
+茶友频道,http://t1.huase.ltd:8888/udp/239.77.1.207:5146
+快乐垂钓,http://t1.huase.ltd:8888/udp/239.77.0.145:5146
+快乐垂钓,http://t1.huase.ltd:8888/udp/239.77.1.119:5146
+北京纪实,http://t1.huase.ltd:8888/udp/239.77.1.110:5146
+金鹰纪实,http://t1.huase.ltd:8888/udp/239.77.1.217:5146
+金鹰纪实,http://t1.huase.ltd:8888/udp/239.77.0.160:5146
+金鹰纪实,http://t1.huase.ltd:8888/udp/239.77.0.162:5146
+上海纪实,http://t1.huase.ltd:8888/udp/239.77.1.216:5146
+上海纪实,http://t1.huase.ltd:8888/udp/239.77.0.147:5146
+环球奇观,http://t1.huase.ltd:8888/udp/239.77.0.224:5146
+环球奇观,http://t1.huase.ltd:8888/udp/239.77.1.198:5146
+优优宝贝,http://t1.huase.ltd:8888/udp/239.77.1.193:5146
+优优宝贝,http://t1.huase.ltd:8888/udp/239.253.43.39:5146
+中华美食,http://t1.huase.ltd:8888/udp/239.77.1.200:5146
+中华美食,http://t1.huase.ltd:8888/udp/239.253.43.40:5146
+中华特产,http://t1.huase.ltd:8888/udp/239.77.1.204:5146
+四海钓鱼,http://t1.huase.ltd:8888/udp/239.77.1.137:5146
+环球旅游,http://t1.huase.ltd:8888/udp/239.77.1.202:5146
+生态环境,http://t1.huase.ltd:8888/udp/239.77.1.201:5146
+生态环境,http://t1.huase.ltd:8888/udp/239.253.43.42:5146
+网络棋牌,http://t1.huase.ltd:8888/udp/239.253.43.38:5146
+天元围棋,http://t1.huase.ltd:8888/udp/239.253.43.98:5146
+游戏竞技,http://t1.huase.ltd:8888/udp/239.77.0.211:5146
+游戏竞技,http://t1.huase.ltd:8888/udp/239.77.1.112:5146
+哒啵赛事,http://t1.huase.ltd:8888/udp/239.77.0.186:5146
+哒啵赛事,http://t1.huase.ltd:8888/udp/239.77.0.185:5146
+求索纪录,http://t1.huase.ltd:8888/udp/239.77.0.21:5146
+求索生活,http://t1.huase.ltd:8888/udp/239.77.0.153:5146
+求索科学,http://t1.huase.ltd:8888/udp/239.77.0.240:5146
+武术世界,http://t1.huase.ltd:8888/udp/239.77.0.216:5146
+武术世界,http://t1.huase.ltd:8888/udp/239.77.1.108:5146
+文物宝库,http://t1.huase.ltd:8888/udp/239.77.0.227:5146
+文物宝库,http://t1.huase.ltd:8888/udp/239.77.1.120:5146
+先锋乒羽,http://t1.huase.ltd:8888/udp/239.77.1.208:5146
+证券服务,http://t1.huase.ltd:8888/udp/239.77.1.135:5146
+证券服务,http://t1.huase.ltd:8888/udp/239.253.43.58:5146
+书画频道,http://t1.huase.ltd:8888/udp/239.77.1.115:5146
+车迷频道,http://t1.huase.ltd:8888/udp/239.77.1.203:5146
+车迷频道,http://t1.huase.ltd:8888/udp/239.253.43.41:5146
+靓妆频道,http://t1.huase.ltd:8888/udp/239.77.0.212:5146
+靓妆频道,http://t1.huase.ltd:8888/udp/239.77.1.118:5146
+国学频道,http://t1.huase.ltd:8888/udp/239.77.0.226:5146
+国学频道,http://t1.huase.ltd:8888/udp/239.77.1.105:5146
+梨园频道,http://t1.huase.ltd:8888/udp/239.77.0.210:5146
+梨园频道,http://t1.huase.ltd:8888/udp/239.77.1.100:5146
+汽摩频道,http://t1.huase.ltd:8888/udp/239.77.0.209:5146
+汽摩频道,http://t1.huase.ltd:8888/udp/239.77.1.205:5146
+IPTV1,http://t1.huase.ltd:8888/udp/239.77.1.75:5146
+IPTV2,http://t1.huase.ltd:8888/udp/239.77.1.63:5146
+IPTV3,http://t1.huase.ltd:8888/udp/239.77.1.64:5146
+IPTV3+,http://t1.huase.ltd:8888/udp/239.77.0.107:5146
+IPTV3+,http://t1.huase.ltd:8888/udp/239.77.1.78:5146
+IPTV4+,http://t1.huase.ltd:8888/udp/239.77.1.56:5146
+IPTV5+,http://t1.huase.ltd:8888/udp/239.77.0.108:5146
+IPTV5+,http://t1.huase.ltd:8888/udp/239.77.1.77:5146
+IPTV5+,http://t1.huase.ltd:8888/udp/239.77.1.116:5146
+IPTV5+,http://t1.huase.ltd:8888/udp/239.77.0.176:5146
+IPTV6+,http://t1.huase.ltd:8888/udp/239.77.0.103:5146
+IPTV6+,http://t1.huase.ltd:8888/udp/239.77.1.138:5146
+IPTV8+,http://t1.huase.ltd:8888/udp/239.77.0.105:5146
+IPTV8+,http://t1.huase.ltd:8888/udp/239.77.1.82:5146
+IPTV谍战剧场,http://t1.huase.ltd:8888/udp/239.77.0.99:5146
+IPTV谍战剧场,http://t1.huase.ltd:8888/udp/239.77.1.83:5146
+IPTV相声小品,http://t1.huase.ltd:8888/udp/239.77.0.100:5146
+IPTV相声小品,http://t1.huase.ltd:8888/udp/239.77.1.84:5146
+IPTV野外频道,http://t1.huase.ltd:8888/udp/239.77.0.101:5146
+IPTV野外频道,http://t1.huase.ltd:8888/udp/239.77.1.85:5146
+IPTV法治频道,http://t1.huase.ltd:8888/udp/239.77.0.102:5146
+IPTV法治频道,http://t1.huase.ltd:8888/udp/239.77.1.86:5146
+IPTV魅力时尚,http://t1.huase.ltd:8888/udp/239.77.0.110:5146
+IPTV魅力时尚,http://t1.huase.ltd:8888/udp/239.77.1.88:5146
+IPTV经典电影,http://t1.huase.ltd:8888/udp/239.77.0.104:5146
+IPTV经典电影,http://t1.huase.ltd:8888/udp/239.77.1.89:5146
+IPTV热播剧场,http://t1.huase.ltd:8888/udp/239.77.0.106:5146
+IPTV热播剧场,http://t1.huase.ltd:8888/udp/239.77.1.90:5146
+IPTV少儿动画,http://t1.huase.ltd:8888/udp/239.77.0.109:5146
+IPTV少儿动画,http://t1.huase.ltd:8888/udp/239.77.1.91:5146
+IPTV收视指南,http://t1.huase.ltd:8888/udp/239.77.0.111:5146
+IPTV收视指南,http://t1.huase.ltd:8888/udp/239.77.0.111:5146
+测试4K,http://t1.huase.ltd:8888/udp/239.77.0.249:5146
+爱上4K,http://t1.huase.ltd:8888/udp/239.253.43.219:5146
+EBUTV,http://t1.huase.ltd:8888/udp/239.253.43.165:5146
+BESTV,http://t1.huase.ltd:8888/udp/239.253.43.118:5146
+DOXTV,http://t1.huase.ltd:8888/udp/239.77.1.155:5146
+PPTV-1,http://t1.huase.ltd:8888/udp/239.77.1.183:5146
+PPTV-2,http://t1.huase.ltd:8888/udp/239.77.1.184:5146
+PPTV-3,http://t1.huase.ltd:8888/udp/239.77.1.185:5146
+PPTV-4,http://t1.huase.ltd:8888/udp/239.77.1.186:5146
+极K精选,http://t1.huase.ltd:8888/udp/239.77.0.231:5146
+极k影视,http://t1.huase.ltd:8888/udp/239.253.43.218:5146
+九屏同播,http://t1.huase.ltd:8888/udp/239.77.1.234:5146
+九屏同播,http://t1.huase.ltd:8888/udp/239.0.10.115:5115
+四屏同播,http://t1.huase.ltd:8888/udp/239.77.1.107:5146
+天翼IPTV导视,http://t1.huase.ltd:8888/udp/239.77.1.133:5146
+广东IPTV导视,http://t1.huase.ltd:8888/udp/239.77.0.208:5146
+广东IPTV导视,http://t1.huase.ltd:8888/udp/239.77.0.240:5146
+广东IPTV导视,http://t1.huase.ltd:8888/udp/239.77.0.233:5146
+广东IPTV导视,http://t1.huase.ltd:8888/udp/239.77.0.232:5146
+广东IPTV导视,http://t1.huase.ltd:8888/udp/239.77.0.218:5146
+百视通高清,http://t1.huase.ltd:8888/udp/239.253.43.115:5146
+百视通高清,http://t1.huase.ltd:8888/udp/239.253.43.116:5146
+百视通高清,http://t1.huase.ltd:8888/udp/239.253.43.117:5146
+百视通高清,http://t1.huase.ltd:8888/udp/239.253.43.119:5146
+直播室101,http://t1.huase.ltd:8888/udp/239.253.43.217:5146
+直播室102,http://t1.huase.ltd:8888/udp/239.253.43.153:5146
+直播室103,http://t1.huase.ltd:8888/udp/239.253.43.154:5146
+直播室104,http://t1.huase.ltd:8888/udp/239.253.43.155:5146
+直播室105,http://t1.huase.ltd:8888/udp/239.253.43.156:5146
+直播室106,http://t1.huase.ltd:8888/udp/239.253.43.157:5146
+直播室107,http://t1.huase.ltd:8888/udp/239.253.43.158:5146
+直播室108,http://t1.huase.ltd:8888/udp/239.253.43.160:5146
+直播室109,http://t1.huase.ltd:8888/udp/239.253.43.161:5146
+直播室110,http://t1.huase.ltd:8888/udp/239.253.43.162:5146
+直播室111,http://t1.huase.ltd:8888/udp/239.253.43.163:5146
+网络通道3HD,http://t1.huase.ltd:8888/udp/239.77.1.187:5146
+网络通道4HD,http://t1.huase.ltd:8888/udp/239.77.0.235:5146
+频道已停止播出,http://t1.huase.ltd:8888/udp/239.77.1.122:5146
+卫星信号传输故障,http://t1.huase.ltd:8888/udp/239.77.1.240:5146
+广东珠江,http://t1.huase.ltd:8888/udp/239.77.0.3:5146
+广东珠江,http://t1.huase.ltd:8888/udp/239.77.0.1:5146
+广东珠江,http://t1.huase.ltd:8888/udp/239.77.0.114:5146
+广东珠江,http://t1.huase.ltd:8888/udp/239.77.1.94:5146
+广东新闻,http://t1.huase.ltd:8888/udp/239.77.0.4:5146
+广东新闻,http://t1.huase.ltd:8888/udp/239.77.0.173:5146
+广东民生,http://t1.huase.ltd:8888/udp/239.77.0.5:5146
+广东民生,http://t1.huase.ltd:8888/udp/239.77.0.225:5146
+广东体育,http://t1.huase.ltd:8888/udp/239.77.0.6:5146
+广东体育,http://t1.huase.ltd:8888/udp/239.77.1.97:5146
+广东体育,http://t1.huase.ltd:8888/udp/239.77.0.112:5146
+广东体育,http://t1.huase.ltd:8888/udp/239.77.0.168:5146
+广东国际,http://t1.huase.ltd:8888/udp/239.77.0.7:5146
+广东科教,http://t1.huase.ltd:8888/udp/239.77.0.8:5146
+广东科教,http://t1.huase.ltd:8888/udp/239.77.0.85:5146
+广东科教,http://t1.huase.ltd:8888/udp/239.77.0.167:5146
+广东影视,http://t1.huase.ltd:8888/udp/239.77.0.11:5146
+广东影视,http://t1.huase.ltd:8888/udp/239.77.0.217:5146
+广东少儿,http://t1.huase.ltd:8888/udp/239.77.0.12:5146
+广东少儿,http://t1.huase.ltd:8888/udp/239.77.0.250:5146
+广东房产,http://t1.huase.ltd:8888/udp/239.77.0.14:5146
+广东移动,http://t1.huase.ltd:8888/udp/239.77.0.20:5146
+广东综艺,http://t1.huase.ltd:8888/udp/239.77.1.236:5146
+广东综艺,http://t1.huase.ltd:8888/udp/239.77.1.237:5146
+广东综艺,http://t1.huase.ltd:8888/udp/239.77.0.244:5146
+广东综艺,http://t1.huase.ltd:8888/udp/239.77.0.245:5146
+广东综艺,http://t1.huase.ltd:8888/udp/239.77.0.246:5146
+广东综艺,http://t1.huase.ltd:8888/udp/239.77.0.252:5146
+广州综合,http://t1.huase.ltd:8888/udp/239.253.43.66:5146
+广州综合,http://t1.huase.ltd:8888/udp/239.253.43.71:5146
+广州新闻,http://t1.huase.ltd:8888/udp/239.253.43.67:5146
+广州新闻,http://t1.huase.ltd:8888/udp/239.253.43.72:5146
+广州影视,http://t1.huase.ltd:8888/udp/239.253.43.68:5146
+广州影视,http://t1.huase.ltd:8888/udp/239.253.43.73:5146
+广州法治,http://t1.huase.ltd:8888/udp/239.253.43.69:5146
+广州法治,http://t1.huase.ltd:8888/udp/239.253.43.74:5146
+广州竞赛,http://t1.huase.ltd:8888/udp/239.253.43.70:5146
+广州竞赛,http://t1.huase.ltd:8888/udp/239.253.43.75:5146
+南国都市,http://t1.huase.ltd:8888/udp/239.253.43.99:5146
+深圳都市,http://t1.huase.ltd:8888/udp/239.77.1.34:5146
+深圳都市,http://t1.huase.ltd:8888/udp/239.77.1.176:5146
+深圳都市,http://t1.huase.ltd:8888/udp/239.77.1.124:5146
+深圳娱乐,http://t1.huase.ltd:8888/udp/239.77.1.36:5146
+深圳娱乐,http://t1.huase.ltd:8888/udp/239.77.1.243:5146
+深圳少儿,http://t1.huase.ltd:8888/udp/239.77.1.38:5146
+深圳少儿,http://t1.huase.ltd:8888/udp/239.77.1.244:5146
+深圳公共,http://t1.huase.ltd:8888/udp/239.77.1.9:5146
+深圳公共,http://t1.huase.ltd:8888/udp/239.77.1.178:5146
+深圳公共,http://t1.huase.ltd:8888/udp/239.77.1.126:5146
+深圳宝安,http://t1.huase.ltd:8888/udp/239.77.1.206:5146
+深圳宝安,http://t1.huase.ltd:8888/udp/239.77.1.67:5146
+深圳宝安,http://t1.huase.ltd:8888/udp/239.77.1.225:5146
+深圳龙岗,http://t1.huase.ltd:8888/udp/239.77.1.223:5146
+深圳东部,http://t1.huase.ltd:8888/udp/239.77.1.224:5146
+深圳众创,http://t1.huase.ltd:8888/udp/239.77.1.247:5146
+深圳电视剧,http://t1.huase.ltd:8888/udp/239.77.1.7:5146
+深圳电视剧,http://t1.huase.ltd:8888/udp/239.77.1.177:5146
+深圳财经生活,http://t1.huase.ltd:8888/udp/239.77.1.22:5146
+深圳财经生活,http://t1.huase.ltd:8888/udp/239.77.1.242:5146
+深圳体育健康,http://t1.huase.ltd:8888/udp/239.77.1.8:5146
+深圳体育健康,http://t1.huase.ltd:8888/udp/239.77.1.128:5146
+深圳体育健康,http://t1.huase.ltd:8888/udp/239.77.1.140:5146
+深圳移动电视,http://t1.huase.ltd:8888/udp/239.77.1.175:5146
+深圳宜和购物,http://t1.huase.ltd:8888/udp/239.77.1.39:5146
+深圳宜和购物,http://t1.huase.ltd:8888/udp/239.77.1.87:5146
+珠海1,http://t1.huase.ltd:8888/udp/239.77.1.230:5146
+珠海1,http://t1.huase.ltd:8888/udp/239.77.0.155:5146
+珠海2,http://t1.huase.ltd:8888/udp/239.77.1.231:5146
+珠海2,http://t1.huase.ltd:8888/udp/239.77.0.154:5146
+惠州TV1,http://t1.huase.ltd:8888/udp/239.77.0.247:5146
+惠州TV1,http://t1.huase.ltd:8888/udp/239.77.1.154:5146
+惠州TV1,http://t1.huase.ltd:8888/udp/239.77.1.232:5146
+惠州TV2,http://t1.huase.ltd:8888/udp/239.77.0.248:5146
+惠州TV2,http://t1.huase.ltd:8888/udp/239.77.1.173:5146
+惠州TV2,http://t1.huase.ltd:8888/udp/239.77.1.233:5146
+揭阳综合,http://t1.huase.ltd:8888/udp/239.77.0.157:5146
+揭阳综合,http://t1.huase.ltd:8888/udp/239.77.0.229:5146
+揭阳公共,http://t1.huase.ltd:8888/udp/239.77.0.158:5146
+揭阳公共,http://t1.huase.ltd:8888/udp/239.77.0.251:5146
+江门综合,http://t1.huase.ltd:8888/udp/239.77.0.195:5146
+江门综合,http://t1.huase.ltd:8888/udp/239.77.0.201:5146
+江门公共,http://t1.huase.ltd:8888/udp/239.77.0.196:5146
+江门公共,http://t1.huase.ltd:8888/udp/239.77.0.202:5146
+江门教育,http://t1.huase.ltd:8888/udp/239.77.0.197:5146
+江门教育,http://t1.huase.ltd:8888/udp/239.77.0.203:5146
+河源综合,http://t1.huase.ltd:8888/udp/239.253.43.215:5146
+河源综合,http://t1.huase.ltd:8888/udp/239.253.43.213:5146
+河源公共,http://t1.huase.ltd:8888/udp/239.253.43.216:5146
+河源公共,http://t1.huase.ltd:8888/udp/239.253.43.214:5146
+云浮综合,http://t1.huase.ltd:8888/udp/239.253.43.195:5146
+云浮综合,http://t1.huase.ltd:8888/udp/239.77.0.253:5146
+云浮文旅,http://t1.huase.ltd:8888/udp/239.253.43.194:5146
+云浮文旅,http://t1.huase.ltd:8888/udp/239.77.0.254:5146
+茂名综合,http://t1.huase.ltd:8888/udp/239.77.0.204:5146
+茂名综合,http://t1.huase.ltd:8888/udp/239.77.0.206:5146
+茂名公共,http://t1.huase.ltd:8888/udp/239.77.0.205:5146
+茂名公共,http://t1.huase.ltd:8888/udp/239.77.0.207:5146
+佛山综合,http://t1.huase.ltd:8888/udp/239.253.43.52:5146
+佛山综合,http://t1.huase.ltd:8888/udp/239.253.43.57:5146
+佛山公共,http://t1.huase.ltd:8888/udp/239.253.43.48:5146
+佛山公共,http://t1.huase.ltd:8888/udp/239.253.43.53:5146
+佛山影视,http://t1.huase.ltd:8888/udp/239.253.43.51:5146
+佛山影视,http://t1.huase.ltd:8888/udp/239.253.43.56:5146
+佛山顺德,http://t1.huase.ltd:8888/udp/239.253.43.50:5146
+佛山顺德,http://t1.huase.ltd:8888/udp/239.253.43.55:5146
+佛山南海,http://t1.huase.ltd:8888/udp/239.253.43.49:5146
+佛山南海,http://t1.huase.ltd:8888/udp/239.253.43.54:5146
+中山综合,http://t1.huase.ltd:8888/udp/239.253.43.59:5146
+中山综合,http://t1.huase.ltd:8888/udp/239.253.43.62:5146
+中山公共,http://t1.huase.ltd:8888/udp/239.253.43.60:5146
+中山公共,http://t1.huase.ltd:8888/udp/239.253.43.63:5146
+中山教育,http://t1.huase.ltd:8888/udp/239.253.43.61:5146
+中山教育,http://t1.huase.ltd:8888/udp/239.253.43.64:5146
+潮州综合,http://t1.huase.ltd:8888/udp/239.253.43.70:5146
+潮州民生,http://t1.huase.ltd:8888/udp/239.253.43.75:5146
+梅州综合,http://t1.huase.ltd:8888/udp/239.253.43.123:5146
+梅州客家,http://t1.huase.ltd:8888/udp/239.253.43.124:5146
+韶关新闻综合,http://t1.huase.ltd:8888/udp/239.77.0.116:5146
+韶关新闻综合,http://t1.huase.ltd:8888/udp/239.77.0.117:5146
+韶关绿色生活,http://t1.huase.ltd:8888/udp/239.77.0.118:5146
+韶关绿色生活,http://t1.huase.ltd:8888/udp/239.77.0.119:5146
+湛江新闻综合,http://t1.huase.ltd:8888/udp/239.77.0.120:5146
+湛江新闻综合,http://t1.huase.ltd:8888/udp/239.77.0.141:5146
+湛江公共频道,http://t1.huase.ltd:8888/udp/239.77.0.121:5146
+湛江公共频道,http://t1.huase.ltd:8888/udp/239.77.0.140:5146
+肇庆新闻综合,http://t1.huase.ltd:8888/udp/239.253.43.3:5146
+肇庆新闻综合,http://t1.huase.ltd:8888/udp/239.253.43.1:5146
+肇庆生活服务,http://t1.huase.ltd:8888/udp/239.253.43.4:5146
+肇庆生活服务,http://t1.huase.ltd:8888/udp/239.253.43.2:5146
+东莞新闻综合,http://t1.huase.ltd:8888/udp/239.253.43.102:5146
+东莞新闻综合,http://t1.huase.ltd:8888/udp/239.253.43.104:5146
+东莞生活资讯,http://t1.huase.ltd:8888/udp/239.253.43.103:5146
+东莞生活资讯,http://t1.huase.ltd:8888/udp/239.253.43.105:5146
+汕头新闻综合,http://t1.huase.ltd:8888/udp/239.253.43.30:5146
+汕头新闻综合,http://t1.huase.ltd:8888/udp/239.253.43.45:5146
+汕头新闻综合,http://t1.huase.ltd:8888/udp/239.77.1.130:5146
+汕头经济生活,http://t1.huase.ltd:8888/udp/239.253.43.43:5146
+汕头经济生活,http://t1.huase.ltd:8888/udp/239.253.43.46:5146
+汕头经济生活,http://t1.huase.ltd:8888/udp/239.77.1.131:5146
+汕头文旅体育,http://t1.huase.ltd:8888/udp/239.253.43.44:5146
+汕头文旅体育,http://t1.huase.ltd:8888/udp/239.253.43.47:5146
+汕头文旅体育,http://t1.huase.ltd:8888/udp/239.77.1.132:5146
+汕尾新闻综合,http://t1.huase.ltd:8888/udp/239.77.1.189:5146
+汕尾新闻综合,http://t1.huase.ltd:8888/udp/239.77.0.25:5146
+汕尾文化频道,http://t1.huase.ltd:8888/udp/239.77.1.190:5146
+汕尾文化频道,http://t1.huase.ltd:8888/udp/239.77.0.187:5146
+清远新闻综合,http://t1.huase.ltd:8888/udp/239.253.43.31:5146
+清远新闻综合,http://t1.huase.ltd:8888/udp/239.253.43.33:5146
+清远公共频道,http://t1.huase.ltd:8888/udp/239.253.43.32:5146
+清远公共频道,http://t1.huase.ltd:8888/udp/239.253.43.34:5146
+广视课堂小学一,http://t1.huase.ltd:8888/udp/239.253.43.76:5146
+广视课堂小学二,http://t1.huase.ltd:8888/udp/239.253.43.77:5146
+广视课堂小学三,http://t1.huase.ltd:8888/udp/239.253.43.78:5146
+广视课堂小学四,http://t1.huase.ltd:8888/udp/239.253.43.79:5146
+广视课堂小学五,http://t1.huase.ltd:8888/udp/239.253.43.80:5146
+广视课堂小学六,http://t1.huase.ltd:8888/udp/239.253.43.81:5146
+广视课堂初一年级,http://t1.huase.ltd:8888/udp/239.253.43.89:5146
+广视课堂初二年级,http://t1.huase.ltd:8888/udp/239.253.43.90:5146
+广视课堂初三年级,http://t1.huase.ltd:8888/udp/239.253.43.91:5146
+广视课堂高一年级,http://t1.huase.ltd:8888/udp/239.253.43.92:5146
+广视课堂高二年级,http://t1.huase.ltd:8888/udp/239.253.43.93:5146
+
 🆔陕西有线,#genre#
 CCTV-1,http://lt.hxtre.com:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV-1,http://lt.hxtre.com:35455/itv/1000000001000018602.m3u8?cdn=ystenlive
@@ -10639,6 +11223,7 @@ ViuTV,http://test.zapi.us.kg/?id=viutv
 ViuTV6,http://test.zapi.us.kg/?id=viutv6
 RTHK 31,http://test.zapi.us.kg/?id=rthk31
 RTHK 32,http://test.zapi.us.kg/?id=rthk32
+RTHK 33,http://test.zapi.us.kg/?id=rthk33
 民视,http://test.zapi.us.kg/?id=ftv
 台视,http://test.zapi.us.kg/?id=ttv
 中视,http://test.zapi.us.kg/?id=ctv
