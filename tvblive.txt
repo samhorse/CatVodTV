@@ -3387,121 +3387,140 @@ MOMOTV,rtmp://9hv9.mine.nu/sat/tv761.flv
 阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 🏰港闽高清,#genre#
-凤凰中文,http://rihou.cc:555/tv/Hkl凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/Hkl凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/Hkl凤凰香港
-中天新闻,http://rihou.cc:555/tv/Hkl中天新闻
-中天新闻,http://rihou.cc:555/tv/SZl中天新闻
-中天新闻,http://rihou.cc:555/tv/4Gl中天新闻
-中天新闻,http://rihou.cc:555/tv/4GI中天新闻
-寰宇新闻,http://rihou.cc:555/tv/Hkl寰宇新闻
-寰宇新闻,http://rihou.cc:555/tv/4Gl寰宇新闻
-寰宇新闻,http://rihou.cc:555/tv/4GI寰宇新闻
-东森新闻,http://rihou.cc:555/tv/Hkl东森新闻
-东森新闻,http://rihou.cc:555/tv/4Gl东森新闻
-东森新闻,http://rihou.cc:555/tv/4GI东森新闻
-中视新闻,http://rihou.cc:555/tv/Hkl中视新闻
-中视新闻,http://rihou.cc:555/tv/4Gl中视新闻
-中视新闻,http://rihou.cc:555/tv/4GI中视新闻
-台视新闻,http://rihou.cc:555/tv/Hkl台视新闻
-台视新闻,http://rihou.cc:555/tv/4Gl台视新闻
-台视新闻,http://rihou.cc:555/tv/4GI台视新闻
-闽镜新闻,http://rihou.cc:555/tv/Hkl闽镜新闻
-PLUS综合,http://rihou.cc:555/tv/HklPlus综合
-TVBS新闻,http://rihou.cc:555/tv/FYltvbS新闻
-TVBS新闻,http://rihou.cc:555/tv/4GltvbS新闻
-TVBS新闻,http://rihou.cc:555/tv/4GItvbS新闻
-TVBS闽南,http://rihou.cc:555/tv/Hkltvbs闽南
-TVBS闽南,http://rihou.cc:555/tv/4GltvbS闽南
-TVBS闽南,http://rihou.cc:555/tv/4GItvbS闽南
-TVBS新话,http://rihou.cc:555/tv/Hkltvbs新话
-NOW新闻,http://rihou.cc:555/tv/HklNow新闻
-NOW英超,http://rihou.cc:555/tv/HklNow英超
-NOW体育,http://rihou.cc:555/tv/HklNow体育
-NOW星影国,http://rihou.cc:555/tv/HklNow星影
-NOW星影粤,http://rihou.cc:555/tv/HklNow星影l
-NOW爆谷国,http://rihou.cc:555/tv/HklNow爆谷
-NOW爆谷粤,http://rihou.cc:555/tv/HklNow爆谷l
-PₒₚC电影,http://rihou.cc:555/tv/Hklpₒₚc电影
-美亚电影,http://rihou.cc:555/tv/Hkl美亚电影
-美亞電影,http://rihou.cc:555/tv/Hkl美亚电影l
-东森电影,http://rihou.cc:555/tv/Hkl东森电影
-東森電影,http://rihou.cc:555/tv/Hkl东森电影l
-龙祥时代,http://rihou.cc:555/tv/Hkl龙祥时代
-天映经典,http://rihou.cc:555/tv/Hkl天映经典
-高点综合,http://rihou.cc:555/tv/Hkl高点综合
-高清剧场,http://rihou.cc:555/tv/Hkl高清剧场
-黄金华剧,http://rihou.cc:555/tv/Hkl黄金华剧
-黄金翡翠,http://rihou.cc:555/tv/Hkl黄金翡翠
-星空卫视,http://rihou.cc:555/tv/Hkl星空卫视
-无线新闻,http://rihou.cc:555/tv/Hkl无线新闻
-无线翡翠,http://rihou.cc:555/tv/Hkl无线翡翠
-无线星河,http://rihou.cc:555/tv/Hkl无线星河
-无线明珠,http://rihou.cc:555/tv/Hkl无线明珠
-无线生活,http://rihou.cc:555/tv/Hkl无线生活
-无线翡剧,http://rihou.cc:555/tv/Hkl无线翡剧
-无线明剧,http://rihou.cc:555/tv/Hkl无线明剧
-无线华剧,http://rihou.cc:555/tv/Hkl无线华剧
-无线戏曲,http://rihou.cc:555/tv/Hkl无线戏曲
-无线奖门,http://rihou.cc:555/tv/Hkl无线奖门
-无线金曲,http://rihou.cc:555/tv/Hkl无线金曲
+凤凰中文,http://rihou.cc:555/tv/[Hk]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Hk]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Hk]凤凰香港
+中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
+中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
+中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
+中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
+寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
+寰宇新闻,http://rihou.cc:555/tv/[4G]寰宇新闻
+东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
+东森新闻,http://rihou.cc:555/tv/[4G]东森新闻
+中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
+中视新闻,http://rihou.cc:555/tv/[4G]中视新闻
+台视新闻,http://rihou.cc:555/tv/[Hk]台视新闻
+台视新闻,http://rihou.cc:555/tv/[4G]台视新闻
+闽镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
+PLUS综合,http://rihou.cc:555/tv/[Hk]Plus综合
+TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
+TVBS新闻,http://rihou.cc:555/tv/[4G]tvbS新闻
+TVBS闽南,http://rihou.cc:555/tv/[Hk]tvbs闽南
+TVBS闽南,http://rihou.cc:555/tv/[Hk]tvbS南闽
+TVBS闽南,http://rihou.cc:555/tv/[4G]tvbS闽南
+TVBS新话,http://rihou.cc:555/tv/[Hk]tvbs新话
+NOW新闻,http://rihou.cc:555/tv/[Hk]Now新闻
+NOW英超,http://rihou.cc:555/tv/[Hk]Now英超
+NOW体育,http://rihou.cc:555/tv/[Hk]Now体育
+NOW星影国,http://rihou.cc:555/tv/[Hk]Now星影
+NOW星影粤,http://rihou.cc:555/tv/[Hk]Now星影l
+NOW爆谷国,http://rihou.cc:555/tv/[Hk]Now爆谷
+NOW爆谷粤,http://rihou.cc:555/tv/[Hk]Now爆谷l
+PₒₚC电影,http://rihou.cc:555/tv/[Hk]pₒₚc电影
+美亚电影,http://rihou.cc:555/tv/[Hk]美亚电影
+美亞電影,http://rihou.cc:555/tv/[Hk]美亚电影l
+东森电影,http://rihou.cc:555/tv/[Hk]东森电影
+東森電影,http://rihou.cc:555/tv/[Hk]东森电影l
+龙祥时代,http://rihou.cc:555/tv/[Hk]龙祥时代
+天映经典,http://rihou.cc:555/tv/[Hk]天映经典
+高点综合,http://rihou.cc:555/tv/[Hk]高点综合
+高清剧场,http://rihou.cc:555/tv/[Hk]高清剧场
+黄金华剧,http://rihou.cc:555/tv/[Hk]黄金华剧
+黄金翡翠,http://rihou.cc:555/tv/[Hk]黄金翡翠
+星空卫视,http://rihou.cc:555/tv/[Hk]星空卫视
+无线新闻,http://rihou.cc:555/tv/[Hk]无线新闻
+无线翡翠,http://rihou.cc:555/tv/[Hk]无线翡翠
+无线星河,http://rihou.cc:555/tv/[Hk]无线星河
+无线明珠,http://rihou.cc:555/tv/[Hk]无线明珠
+无线生活,http://rihou.cc:555/tv/[Hk]无线生活
+无线翡剧,http://rihou.cc:555/tv/[Hk]无线翡剧
+无线明剧,http://rihou.cc:555/tv/[Hk]无线明剧
+无线华剧,http://rihou.cc:555/tv/[Hk]无线华剧
+无线戏曲,http://rihou.cc:555/tv/[Hk]无线戏曲
+无线奖门,http://rihou.cc:555/tv/[Hk]无线奖门
+无线金曲,http://rihou.cc:555/tv/[Hk]无线金曲
 
-PLUS综合,http://rihou.cc:555/tv/PdlPlus综合
-凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
-有线综合,http://rihou.cc:555/tv/Pdl有线综合
-无线新闻,http://rihou.cc:555/tv/Pdl无线新闻
-无线翡翠,http://rihou.cc:555/tv/Pdl无线翡翠
-无线翡翠,http://rihou.cc:555/tv/Pdl无线翡4K
-无线星河,http://rihou.cc:555/tv/Pdl无线星河
-无线明珠,http://rihou.cc:555/tv/Pdl无线明珠
-无线功夫,http://rihou.cc:555/tv/Pdl无线功夫
-澳视澳门,http://rihou.cc:555/tv/Pdl澳视澳门
-澳视卫星,http://rihou.cc:555/tv/Pdl澳视卫星
-澳门体育,http://rihou.cc:555/tv/Pdl澳门体育
-澳门综艺,http://rihou.cc:555/tv/Pdl澳门综艺
-澳门莲花,http://rihou.cc:555/tv/Pdl澳门莲花
-八度空间,http://rihou.cc:555/tv/Pdl八度空间
-央视综合,http://rihou.cc:555/tv/Pdl央视综合
-CHU综合,http://rihou.cc:555/tv/PdlCHU综合
-CH5综合,http://rihou.cc:555/tv/PdlCH5综合
-CH8综合,http://rihou.cc:555/tv/PdlCH8综合
+PLUS综合,http://rihou.cc:555/tv/[Pd]Plus综合
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡4K
+无线星河,http://rihou.cc:555/tv/[Pd]无线星河
+无线明珠,http://rihou.cc:555/tv/[Pd]无线明珠
+无线功夫,http://rihou.cc:555/tv/[Pd]无线功夫
+有线综合,http://rihou.cc:555/tv/[Pd]有线综合
+澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
+八度空间,http://rihou.cc:555/tv/[Pd]八度空间
+央视综合,http://rihou.cc:555/tv/[Pd]央视综合
+CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 
-有线新闻,http://rihou.cc:555/tv/Mtl有线新闻
-无线新闻,http://rihou.cc:555/tv/Mtl无线新闻
-无线翡翠,http://rihou.cc:555/tv/Mtl无线翡翠
-无线明珠,http://rihou.cc:555/tv/Mtl无线明珠
-有线赛讯,http://rihou.cc:555/tv/Mtl有线赛讯
-有线综合,http://rihou.cc:555/tv/Mtl有线综合
-PLUS综合,http://rihou.cc:555/tv/MtlPlus综合
-NOW新闻,http://rihou.cc:555/tv/MtlNow新闻
-NOW财经,http://rihou.cc:555/tv/MtlNow财经
-NOW直播,http://rihou.cc:555/tv/MtlNow直播
-NOW体育,http://rihou.cc:555/tv/MtlNow体育
-NOW星影粤,http://rihou.cc:555/tv/MtlNow星影
-NOW爆谷粤,http://rihou.cc:555/tv/MtlNow爆谷
-RTHK-31,http://rihou.cc:555/tv/MtlRTHK-31
-RTHK-32,http://rihou.cc:555/tv/MtlRTHK-32
-VIUTV-1,http://rihou.cc:555/tv/MtlVIUTV粤
-VIUTV-6,http://rihou.cc:555/tv/MtlVIUTV英
-VIUTV全运-1,http://rihou.cc:555/tv/MtlVIUTV壹
-VIUTV全运-2,http://rihou.cc:555/tv/MtlVIUTV贰
+有线新闻,http://rihou.cc:555/tv/[Mt]有线新闻
+无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
+无线翡翠,http://rihou.cc:555/tv/[Mt]无线翡翠
+无线明珠,http://rihou.cc:555/tv/[Mt]无线明珠
+有线赛讯,http://rihou.cc:555/tv/[Mt]有线赛讯
+有线综合,http://rihou.cc:555/tv/[Mt]有线综合
+PLUS综合,http://rihou.cc:555/tv/[Mt]Plus综合
+NOW新闻,http://rihou.cc:555/tv/[Mt]Now新闻
+NOW财经,http://rihou.cc:555/tv/[Mt]Now财经
+NOW直播,http://rihou.cc:555/tv/[Mt]Now直播
+NOW体育,http://rihou.cc:555/tv/[Mt]Now体育
+NOW星影粤,http://rihou.cc:555/tv/[Mt]Now星影
+NOW爆谷粤,http://rihou.cc:555/tv/[Mt]Now爆谷
+RTHK-31,http://rihou.cc:555/tv/[Mt]RTHK-31
+RTHK-32,http://rihou.cc:555/tv/[Mt]RTHK-32
+VIUTV-1,http://rihou.cc:555/tv/[Mt]VIUTV粤
+VIUTV-6,http://rihou.cc:555/tv/[Mt]VIUTV英
+VIUTV全运-1,http://rihou.cc:555/tv/[Mt]VIUTV壹
+VIUTV全运-2,http://rihou.cc:555/tv/[Mt]VIUTV贰
 
-无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
-中天新闻,http://rihou.cc:555/tv/Bxl中天新闻
-PLUS综合,http://rihou.cc:555/tv/BxlPlus综合
-PₒₚC电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
-NOW星影粤,http://rihou.cc:555/tv/BxlNow星影
-NOW爆谷粤,http://rihou.cc:555/tv/BxlNow爆谷
-美亞電影,http://rihou.cc:555/tv/Bxl美亚电影
-凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
-无线翡翠,http://rihou.cc:555/tv/Bxl无线翡翠
-无线明珠,http://rihou.cc:555/tv/Bxl无线明珠
-无线功夫,http://rihou.cc:555/tv/Bxl无线功夫
-无线千禧,http://rihou.cc:555/tv/Bxl无线千禧
-无线赛马,http://rihou.cc:555/tv/Bxl无线赛马
+无线新闻,http://rihou.cc:555/tv/[Bx]无线新闻
+中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+PLUS综合,http://rihou.cc:555/tv/[Bx]Plus综合
+PₒₚC电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
+NOW星影粤,http://rihou.cc:555/tv/[Bx]Now星影
+NOW爆谷粤,http://rihou.cc:555/tv/[Bx]Now爆谷
+美亞電影,http://rihou.cc:555/tv/[Bx]美亚电影
+凤凰中文,http://rihou.cc:555/tv/[Bx]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
+无线翡翠,http://rihou.cc:555/tv/[Bx]无线翡翠
+无线明珠,http://rihou.cc:555/tv/[Bx]无线明珠
+无线功夫,http://rihou.cc:555/tv/[Bx]无线功夫
+无线千禧,http://rihou.cc:555/tv/[Bx]无线千禧
+无线赛马,http://rihou.cc:555/tv/[Bx]无线赛马
+
+有线新闻,http://rihou.cc:555/tv/[FY]有线新闻
+无线华丽,http://rihou.cc:555/tv/[FY]无线华丽
+邵氏电影,http://rihou.cc:555/tv/[FY]邵氏电影
+邵氏武侠,http://rihou.cc:555/tv/[FY]邵氏武侠
+邵氏动作,http://rihou.cc:555/tv/[FY]邵氏动作
+邵氏喜剧,http://rihou.cc:555/tv/[FY]邵氏喜剧
+
+无线新闻,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=wxxw
+中天新闻,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=ztxw
+PLUS综合,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=tvbp
+PₒₚC电影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=popc
+NOW星影粤,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=xingying
+NOW爆谷粤,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=baogu
+美亞電影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=meiya
+凤凰中文,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzw
+凤凰资讯,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzx
+凤凰香港,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhhk
+无线翡翠,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fct
+无线明珠,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=mz
+无线功夫,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=gf
+无线千禧,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=qxjd
+无线赛马,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=18
 
 有线综合,http://cdn.163189.xyz/163189/hoy
 NOW新闻,http://cdn.163189.xyz/163189/now
@@ -4080,7 +4099,7 @@ CHC影迷电影,http://over.qiyuevod.com/tmsctv/yhtv.php?id=chcgq
 天元围棋,http://over.qiyuevod.com/tmsctv/scxg.php?id=tywq_2000
 网络棋牌,http://over.qiyuevod.com/tmsctv/astv.php?id=wlqp
 河南梨园,http://over.qiyuevod.com/tmsctv/scxg.php?id=ly_4000
-河南梨园,http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
+河南梨园,http://120.210.193.151:8006/120000001002/X[Mt]iyuan/1.m3u8
 武术世界,http://over.qiyuevod.com/tmsctv/scxg.php?id=wssj_4000
 武术世界,http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
 文物宝库,http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
@@ -5231,107 +5250,303 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 最佳损友闯情关,https://vip.ffzy-play7.com/20221116/4843_accffdd6/index.m3u8
 
 🐝西游记国,#genre#
-西游记_第01集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
-西游记_第02集,https://txmov2.a.kwimgs.com/bs3/video-hls/5221923836211844606_hlsb.m3u8
-西游记_第03集,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835687545858667_hlsb.m3u8
-西游记_第04集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205307782734748_hlsb.m3u8
-西游记_第05集,https://txmov2.a.kwimgs.com/bs3/video-hls/5197998463397799646_hlsb.m3u8
-西游记_第06集,https://txmov2.a.kwimgs.com/bs3/video-hls/5248382480897511687_hlsb.m3u8
-西游记_第07集,https://txmov2.a.kwimgs.com/bs3/video-hls/5255982306920155520_hlsb.m3u8
-西游记_第08集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245004783362852874_hlsb.m3u8
-西游记_第09集,https://txmov2.a.kwimgs.com/bs3/video-hls/5188991261818113744_hlsb.m3u8
-西游记_第10集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286258564595605_hlsb.m3u8
-西游记_第11集,https://txmov2.a.kwimgs.com/bs3/video-hls/5242190033819283686_hlsb.m3u8
-西游记_第12集,https://txmov2.a.kwimgs.com/bs3/video-hls/5195465185500328899_hlsb.m3u8
-西游记_第13集,https://txmov2.a.kwimgs.com/bs3/video-hls/5233182832465375578_hlsb.m3u8
-西游记_第14集,https://txmov2.a.kwimgs.com/bs3/video-hls/5257952633664504505_hlsb.m3u8
-西游记_第15集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
-西游记_第16集,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339285053330625_hlsb.m3u8
-西游记_第17集,https://txmov2.a.kwimgs.com/bs3/video-hls/5212353685308148894_hlsb.m3u8
-西游记_第18集,https://txmov2.a.kwimgs.com/bs3/video-hls/5196028138193985933_hlsb.m3u8
-西游记_第19集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201657637211300344_hlsb.m3u8
-西游记_第20集,https://txmov2.a.kwimgs.com/bs3/video-hls/5192368961005814924_hlsb.m3u8
-西游记_第21集,https://txmov2.a.kwimgs.com/bs3/video-hls/5234590208336898334_hlsb.m3u8
-西游记_第22集,https://txmov2.a.kwimgs.com/bs3/video-hls/5231212506629016061_hlsb.m3u8
-西游记_第23集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094684845468508_hlsb.m3u8
-西游记_第24集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245567730520243844_hlsb.m3u8
-西游记_第25集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
+第01集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
+第02集,https://txmov2.a.kwimgs.com/bs3/video-hls/5221923836211844606_hlsb.m3u8
+第03集,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835687545858667_hlsb.m3u8
+第04集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205307782734748_hlsb.m3u8
+第05集,https://txmov2.a.kwimgs.com/bs3/video-hls/5197998463397799646_hlsb.m3u8
+第06集,https://txmov2.a.kwimgs.com/bs3/video-hls/5248382480897511687_hlsb.m3u8
+第07集,https://txmov2.a.kwimgs.com/bs3/video-hls/5255982306920155520_hlsb.m3u8
+第08集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245004783362852874_hlsb.m3u8
+第09集,https://txmov2.a.kwimgs.com/bs3/video-hls/5188991261818113744_hlsb.m3u8
+第10集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286258564595605_hlsb.m3u8
+第11集,https://txmov2.a.kwimgs.com/bs3/video-hls/5242190033819283686_hlsb.m3u8
+第12集,https://txmov2.a.kwimgs.com/bs3/video-hls/5195465185500328899_hlsb.m3u8
+第13集,https://txmov2.a.kwimgs.com/bs3/video-hls/5233182832465375578_hlsb.m3u8
+第14集,https://txmov2.a.kwimgs.com/bs3/video-hls/5257952633664504505_hlsb.m3u8
+第15集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+第16集,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339285053330625_hlsb.m3u8
+第17集,https://txmov2.a.kwimgs.com/bs3/video-hls/5212353685308148894_hlsb.m3u8
+第18集,https://txmov2.a.kwimgs.com/bs3/video-hls/5196028138193985933_hlsb.m3u8
+第19集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201657637211300344_hlsb.m3u8
+第20集,https://txmov2.a.kwimgs.com/bs3/video-hls/5192368961005814924_hlsb.m3u8
+第21集,https://txmov2.a.kwimgs.com/bs3/video-hls/5234590208336898334_hlsb.m3u8
+第22集,https://txmov2.a.kwimgs.com/bs3/video-hls/5231212506629016061_hlsb.m3u8
+第23集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094684845468508_hlsb.m3u8
+第24集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245567730520243844_hlsb.m3u8
+第25集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
 
-🐯霍元甲粤,#genre#
-霍元甲粤语01,https://vip.lz-cdn8.com/20220726/19894_ad5e9bdc/1000k/hls/mixed.m3u8
-霍元甲粤语02,https://vip.lz-cdn8.com/20220726/19895_7939dca8/1000k/hls/mixed.m3u8
-霍元甲粤语03,https://vip.lz-cdn8.com/20220726/19896_37f7153f/1000k/hls/mixed.m3u8
-霍元甲粤语04,https://vip.lz-cdn8.com/20220726/19897_bafd0363/1000k/hls/mixed.m3u8
-霍元甲粤语05,https://vip.lz-cdn8.com/20220726/19898_611cd997/1000k/hls/mixed.m3u8
-霍元甲粤语06,https://vip.lz-cdn8.com/20220726/19899_b830cdf9/1000k/hls/mixed.m3u8
-霍元甲粤语07,https://vip.lz-cdn8.com/20220726/19900_c085ed2c/1000k/hls/mixed.m3u8
-霍元甲粤语08,https://vip.lz-cdn8.com/20220726/19901_8854d685/1000k/hls/mixed.m3u8
-霍元甲粤语09,https://vip.lz-cdn8.com/20220726/19902_efd26876/1000k/hls/mixed.m3u8
-霍元甲粤语10,https://vip.lz-cdn8.com/20220726/19903_8efcbf07/1000k/hls/mixed.m3u8
-霍元甲粤语11,https://vip.lz-cdn8.com/20220726/19904_04801f99/1000k/hls/mixed.m3u8
-霍元甲粤语12,https://vip.lz-cdn8.com/20220726/19905_6123ed83/1000k/hls/mixed.m3u8
-霍元甲粤语13,https://vip.lz-cdn8.com/20220726/19906_a45bd94c/1000k/hls/mixed.m3u8
-霍元甲粤语14,https://vip.lz-cdn8.com/20220726/19907_6906362f/1000k/hls/mixed.m3u8
-霍元甲粤语15,https://vip.lz-cdn8.com/20220726/19908_df138b7c/1000k/hls/mixed.m3u8
-霍元甲粤语16,https://vip.lz-cdn8.com/20220726/19909_068fae42/1000k/hls/mixed.m3u8
-霍元甲粤语17,https://vip.lz-cdn8.com/20220726/19910_9469bab5/1000k/hls/mixed.m3u8
-霍元甲粤语18,https://vip.lz-cdn8.com/20220726/19911_e4efa3b0/1000k/hls/mixed.m3u8
-霍元甲粤语19,https://vip.lz-cdn8.com/20220726/19912_dbcbcf81/1000k/hls/mixed.m3u8
-霍元甲粤语20,https://vip.lz-cdn8.com/20220726/19913_61c2ea44/1000k/hls/mixed.m3u8
+🐳水浒传国,#genre#
+第01集,https://vip.ffzy-play1.com/20221221/39187_6880e263/index.m3u8
+第02集,https://vip.ffzy-play1.com/20221221/39190_efafbd7a/index.m3u8
+第03集,https://vip.ffzy-play1.com/20221221/39189_2c2bbe9e/index.m3u8
+第04集,https://vip.ffzy-play1.com/20221221/39191_3cb06f8b/index.m3u8
+第05集,https://vip.ffzy-play1.com/20221221/39192_54cc72c7/index.m3u8
+第06集,https://vip.ffzy-play1.com/20221221/39193_265867b0/index.m3u8
+第07集,https://vip.ffzy-play1.com/20221221/39194_101e2b17/index.m3u8
+第08集,https://vip.ffzy-play1.com/20221221/39195_3d736ada/index.m3u8
+第09集,https://vip.ffzy-play1.com/20221221/39197_3bcfd002/index.m3u8
+第10集,https://vip.ffzy-play1.com/20221221/39198_40a68918/index.m3u8
+第11集,https://vip.ffzy-play1.com/20221221/39196_409b386d/index.m3u8
+第12集,https://vip.ffzy-play1.com/20221221/39199_c099a6f4/index.m3u8
+第13集,https://vip.ffzy-play1.com/20221221/39200_59e7108f/index.m3u8
+第14集,https://vip.ffzy-play1.com/20221221/39202_84904db6/index.m3u8
+第15集,https://vip.ffzy-play1.com/20221221/39201_c82f28e4/index.m3u8
+第16集,https://vip.ffzy-play1.com/20221221/39203_98176a7a/index.m3u8
+第17集,https://vip.ffzy-play1.com/20221221/39204_adec2af8/index.m3u8
+第18集,https://vip.ffzy-play1.com/20221221/39206_51c8dab4/index.m3u8
+第19集,https://vip.ffzy-play1.com/20221221/39205_88b0f35e/index.m3u8
+第20集,https://vip.ffzy-play1.com/20221221/39207_598ceadf/index.m3u8
+第21集,https://vip.ffzy-play1.com/20221221/39208_3890d22b/index.m3u8
+第22集,https://vip.ffzy-play1.com/20221221/39211_62159933/index.m3u8
+第23集,https://vip.ffzy-play1.com/20221221/39209_554dc5b5/index.m3u8
+第24集,https://vip.ffzy-play1.com/20221221/39212_1c1a10e1/index.m3u8
+第25集,https://vip.ffzy-play1.com/20221221/39210_2ff9d244/index.m3u8
+第26集,https://vip.ffzy-play1.com/20221221/39213_0dbab072/index.m3u8
+第27集,https://vip.ffzy-play1.com/20221221/39218_d4692e4c/index.m3u8
+第28集,https://vip.ffzy-play1.com/20221221/39215_b1be3967/index.m3u8
+第29集,https://vip.ffzy-play1.com/20221221/39214_c71cc702/index.m3u8
+第30集,https://vip.ffzy-play1.com/20221221/39216_55536c97/index.m3u8
+第31集,https://vip.ffzy-play1.com/20221221/39217_be6b896a/index.m3u8
+第32集,https://vip.ffzy-play1.com/20221221/39220_6d9d03e8/index.m3u8
+第33集,https://vip.ffzy-play1.com/20221221/39221_8b55e975/index.m3u8
+第34集,https://vip.ffzy-play1.com/20221221/39219_bdb814a1/index.m3u8
+第35集,https://vip.ffzy-play1.com/20221221/39222_3ee81442/index.m3u8
+第36集,https://vip.ffzy-play1.com/20221221/39225_586e0715/index.m3u8
+第37集,https://vip.ffzy-play1.com/20221221/39223_2dfad423/index.m3u8
+第38集,https://vip.ffzy-play1.com/20221221/39224_dc713910/index.m3u8
+第39集,https://vip.ffzy-play1.com/20221221/39228_ab6c8992/index.m3u8
+第40集,https://vip.ffzy-play1.com/20221221/39226_db281848/index.m3u8
+第41集,https://vip.ffzy-play1.com/20221221/39229_b86cb590/index.m3u8
+第42集,https://vip.ffzy-play1.com/20221221/39227_0684cb57/index.m3u8
+第43集,https://vip.ffzy-play1.com/20221221/39230_e85e4212/index.m3u8
+
+🐧红楼梦国,#genre#
+第01集,https://v.cdnlz19.com/20240831/42404_29dad446/2000k/hls/mixed.m3u8
+第02集,https://v.cdnlz19.com/20240831/42405_2fd82cec/2000k/hls/mixed.m3u8
+第03集,https://v.cdnlz19.com/20240831/42406_ff76446f/2000k/hls/mixed.m3u8
+第04集,https://v.cdnlz19.com/20240831/42408_747fe203/2000k/hls/mixed.m3u8
+第05集,https://v.cdnlz19.com/20240831/42407_8cd33997/2000k/hls/mixed.m3u8
+第06集,https://v.cdnlz19.com/20240831/42409_096baeef/2000k/hls/mixed.m3u8
+第07集,https://v.cdnlz19.com/20240831/42410_79d59437/2000k/hls/mixed.m3u8
+第08集,https://v.cdnlz19.com/20240831/42411_28770fd1/2000k/hls/mixed.m3u8
+第09集,https://v.cdnlz19.com/20240831/42412_330cb0c7/2000k/hls/mixed.m3u8
+第10集,https://v.cdnlz19.com/20240831/42413_96f44670/2000k/hls/mixed.m3u8
+第11集,https://v.cdnlz19.com/20240831/42414_ed92d19a/2000k/hls/mixed.m3u8
+第12集,https://v.cdnlz19.com/20240831/42415_c5f068ce/2000k/hls/mixed.m3u8
+第13集,https://v.cdnlz19.com/20240831/42416_ecd13816/2000k/hls/mixed.m3u8
+第14集,https://v.cdnlz19.com/20240831/42417_a0303d8a/2000k/hls/mixed.m3u8
+第15集,https://v.cdnlz19.com/20240831/42418_b2471659/2000k/hls/mixed.m3u8
+第16集,https://v.cdnlz19.com/20240831/42419_116bdeaa/2000k/hls/mixed.m3u8
+第17集,https://v.cdnlz19.com/20240831/42420_0c7c0b25/2000k/hls/mixed.m3u8
+第18集,https://v.cdnlz19.com/20240831/42421_8c497304/2000k/hls/mixed.m3u8
+第19集,https://v.cdnlz19.com/20240831/42422_43919f2c/2000k/hls/mixed.m3u8
+第20集,https://v.cdnlz19.com/20240901/42614_9c63459d/2000k/hls/mixed.m3u8
+第21集,https://v.cdnlz19.com/20240901/42615_01968b31/2000k/hls/mixed.m3u8
+第22集,https://v.cdnlz19.com/20240831/42423_80bf42b1/2000k/hls/mixed.m3u8
+第23集,https://v.cdnlz19.com/20240831/42424_b6c974d6/2000k/hls/mixed.m3u8
+第24集,https://v.cdnlz19.com/20240831/42425_572400b7/2000k/hls/mixed.m3u8
+第25集,https://v.cdnlz19.com/20240831/42426_922b1307/2000k/hls/mixed.m3u8
+第26集,https://v.cdnlz19.com/20240831/42427_23daf040/2000k/hls/mixed.m3u8
+第27集,https://v.cdnlz19.com/20240831/42428_fa1d468e/2000k/hls/mixed.m3u8
+第28集,https://v.cdnlz19.com/20240831/42429_558b52e8/2000k/hls/mixed.m3u8
+第29集,https://v.cdnlz19.com/20240831/42430_5589a6fc/2000k/hls/mixed.m3u8
+第30集,https://v.cdnlz19.com/20240831/42431_e3844368/2000k/hls/mixed.m3u8
+第31集,https://v.cdnlz19.com/20240831/42432_e0003917/2000k/hls/mixed.m3u8
+第32集,https://v.cdnlz19.com/20240831/42433_ed922c7e/2000k/hls/mixed.m3u8
+第33集,https://v.cdnlz19.com/20240831/42434_ce2e7ee2/2000k/hls/mixed.m3u8
+第34集,https://v.cdnlz19.com/20240831/42435_2f21c57d/2000k/hls/mixed.m3u8
+第35集,https://v.cdnlz19.com/20240831/42436_4ddfe9bc/2000k/hls/mixed.m3u8
+第36集,https://v.cdnlz19.com/20240831/42438_07404a40/2000k/hls/mixed.m3u8
+
+🐬三国演义,#genre#
+第01集,https://vip.ffzy-online3.com/20230126/6123_b94abe2c/index.m3u8
+第02集,https://vip.ffzy-online3.com/20230126/6122_d5272023/index.m3u8
+第03集,https://vip.ffzy-online3.com/20230126/6128_f817e305/index.m3u8
+第04集,https://vip.ffzy-online3.com/20230126/6130_5fa99fed/index.m3u8
+第05集,https://vip.ffzy-online3.com/20230126/6141_34c3e33d/index.m3u8
+第06集,https://vip.ffzy-online3.com/20230126/6142_2004ff72/index.m3u8
+第07集,https://vip.ffzy-online3.com/20230126/6129_58ebc9ce/index.m3u8
+第08集,https://vip.ffzy-online3.com/20230126/6132_7746c3dc/index.m3u8
+第09集,https://vip.ffzy-online3.com/20230126/6133_dd9c6318/index.m3u8
+第10集,https://vip.ffzy-online3.com/20230126/6131_1da754cb/index.m3u8
+第11集,https://vip.ffzy-online3.com/20230126/6134_6434224f/index.m3u8
+第12集,https://vip.ffzy-online3.com/20230126/6135_bf81825d/index.m3u8
+第13集,https://vip.ffzy-online3.com/20230126/6137_23c9346d/index.m3u8
+第14集,https://vip.ffzy-online3.com/20230126/6136_ea992bd4/index.m3u8
+第15集,https://vip.ffzy-online3.com/20230126/6138_fa8caa9b/index.m3u8
+第16集,https://vip.ffzy-online3.com/20230126/6139_3738beef/index.m3u8
+第17集,https://vip.ffzy-online3.com/20230126/6143_e1acc6bf/index.m3u8
+第18集,https://vip.ffzy-online3.com/20230126/6140_4e17fd01/index.m3u8
+第19集,https://vip.ffzy-online3.com/20230126/6150_f045101d/index.m3u8
+第20集,https://vip.ffzy-online3.com/20230126/6144_5fc57ae3/index.m3u8
+第21集,https://vip.ffzy-online3.com/20230126/6156_89d20b98/index.m3u8
+第22集,https://vip.ffzy-online3.com/20230126/6146_2b986d1e/index.m3u8
+第23集,https://vip.ffzy-online3.com/20230126/6145_a1805f38/index.m3u8
+第24集,https://vip.ffzy-online3.com/20230126/6148_2793425c/index.m3u8
+第25集,https://vip.ffzy-online3.com/20230126/6149_c3e6b8f4/index.m3u8
+第26集,https://vip.ffzy-online3.com/20230126/6147_87dcfac8/index.m3u8
+第27集,https://vip.ffzy-online3.com/20230126/6155_6191ff7b/index.m3u8
+第28集,https://vip.ffzy-online3.com/20230126/6151_395d849b/index.m3u8
+第29集,https://vip.ffzy-online3.com/20230126/6152_dac85b43/index.m3u8
+第30集,https://vip.ffzy-online3.com/20230126/6166_38f582d1/index.m3u8
+第31集,https://vip.ffzy-online3.com/20230126/6154_4e34b8e3/index.m3u8
+第32集,https://vip.ffzy-online3.com/20230126/6165_7ef4983e/index.m3u8
+第33集,https://vip.ffzy-online3.com/20230126/6153_8df21b3f/index.m3u8
+第34集,https://vip.ffzy-online3.com/20230126/6159_f8909df2/index.m3u8
+第35集,https://vip.ffzy-online3.com/20230126/6158_361b9c07/index.m3u8
+第36集,https://vip.ffzy-online3.com/20230126/6161_e36b1632/index.m3u8
+第37集,https://vip.ffzy-online3.com/20230126/6157_cb8b5a1b/index.m3u8
+第38集,https://vip.ffzy-online3.com/20230126/6163_d7c913cd/index.m3u8
+第39集,https://vip.ffzy-online3.com/20230126/6160_067c8411/index.m3u8
+第40集,https://vip.ffzy-online3.com/20230126/6162_cdebe9d5/index.m3u8
+第41集,https://vip.ffzy-online3.com/20230126/6175_66ff490f/index.m3u8
+第42集,https://vip.ffzy-online3.com/20230126/6164_7c0bb97a/index.m3u8
+第43集,https://vip.ffzy-online3.com/20230126/6167_b13072b4/index.m3u8
+第44集,https://vip.ffzy-online3.com/20230126/6168_a2450b20/index.m3u8
+第45集,https://vip.ffzy-online3.com/20230126/6171_e2b3e459/index.m3u8
+第46集,https://vip.ffzy-online3.com/20230126/6173_37348442/index.m3u8
+第47集,https://vip.ffzy-online3.com/20230126/6170_290bd36d/index.m3u8
+第48集,https://vip.ffzy-online3.com/20230126/6176_796fbc3e/index.m3u8
+第49集,https://vip.ffzy-online3.com/20230126/6169_affd89f0/index.m3u8
+第50集,https://vip.ffzy-online3.com/20230126/6172_1d1c081d/index.m3u8
+第51集,https://vip.ffzy-online3.com/20230126/6174_ba5ebae4/index.m3u8
+第52集,https://vip.ffzy-online3.com/20230126/6189_efee0ddf/index.m3u8
+第53集,https://vip.ffzy-online3.com/20230126/6177_d498db23/index.m3u8
+第54集,https://vip.ffzy-online3.com/20230126/6178_3ae94f25/index.m3u8
+第55集,https://vip.ffzy-online3.com/20230126/6187_724f1548/index.m3u8
+第56集,https://vip.ffzy-online3.com/20230126/6180_8fcf7146/index.m3u8
+第57集,https://vip.ffzy-online3.com/20230126/6182_91f41244/index.m3u8
+第58集,https://vip.ffzy-online3.com/20230126/6179_d7ed2149/index.m3u8
+第59集,https://vip.ffzy-online3.com/20230126/6181_b5da3368/index.m3u8
+第60集,https://vip.ffzy-online3.com/20230126/6183_71397d48/index.m3u8
+第61集,https://vip.ffzy-online3.com/20230126/6184_43bf9c9e/index.m3u8
+第62集,https://vip.ffzy-online3.com/20230126/6185_4d83a795/index.m3u8
+第63集,https://vip.ffzy-online3.com/20230126/6188_32fe8a91/index.m3u8
+第64集,https://vip.ffzy-online3.com/20230126/6186_adadef7e/index.m3u8
+第65集,https://vip.ffzy-online3.com/20230126/6192_abf34e2e/index.m3u8
+第66集,https://vip.ffzy-online3.com/20230126/6190_73e217dd/index.m3u8
+第67集,https://vip.ffzy-online3.com/20230126/6194_cc17f330/index.m3u8
+第68集,https://vip.ffzy-online3.com/20230126/6191_f2caa8bf/index.m3u8
+第69集,https://vip.ffzy-online3.com/20230126/6193_65d4ed34/index.m3u8
+第70集,https://vip.ffzy-online3.com/20230126/6195_5d00416c/index.m3u8
+第71集,https://vip.ffzy-online3.com/20230126/6197_76efb5bf/index.m3u8
+第72集,https://vip.ffzy-online3.com/20230126/6196_5bf0fbb4/index.m3u8
+第73集,https://vip.ffzy-online3.com/20230126/6198_74099668/index.m3u8
+第74集,https://vip.ffzy-online3.com/20230126/6202_5336585e/index.m3u8
+第75集,https://vip.ffzy-online3.com/20230126/6211_d4b89345/index.m3u8
+第76集,https://vip.ffzy-online3.com/20230126/6200_f51a603d/index.m3u8
+第77集,https://vip.ffzy-online3.com/20230126/6201_c90fe4f6/index.m3u8
+第78集,https://vip.ffzy-online3.com/20230126/6203_86390f52/index.m3u8
+第79集,https://vip.ffzy-online3.com/20230126/6199_e9dcaabf/index.m3u8
+第80集,https://vip.ffzy-online3.com/20230126/6204_daab00b5/index.m3u8
+第81集,https://vip.ffzy-online3.com/20230126/6210_f3b8f53f/index.m3u8
+第82集,https://vip.ffzy-online3.com/20230126/6208_373d73a2/index.m3u8
+第83集,https://vip.ffzy-online3.com/20230126/6205_30079482/index.m3u8
+第84集,https://vip.ffzy-online3.com/20230126/6207_748ccd35/index.m3u8
+
+📀上海滩国,#genre#
+第01集,https://vip.ffzy-play1.com/20221101/7793_0936938d/index.m3u8
+第02集,https://vip.ffzy-play1.com/20221101/7792_8c33e364/index.m3u8
+第03集,https://vip.ffzy-play1.com/20221101/7797_db30e4e5/index.m3u8
+第04集,https://vip.ffzy-play1.com/20221101/7796_150221e5/index.m3u8
+第05集,https://vip.ffzy-play1.com/20221101/7795_7babb848/index.m3u8
+第06集,https://vip.ffzy-play1.com/20221101/7798_4318fa7c/index.m3u8
+第07集,https://vip.ffzy-play1.com/20221101/7799_d96ed4d4/index.m3u8
+第08集,https://vip.ffzy-play1.com/20221101/7801_ada46e61/index.m3u8
+第09集,https://vip.ffzy-play1.com/20221101/7800_125ec8ef/index.m3u8
+第10集,https://vip.ffzy-play1.com/20221101/7804_e27b9abb/index.m3u8
+第11集,https://vip.ffzy-play1.com/20221101/7802_5212736a/index.m3u8
+第12集,https://vip.ffzy-play1.com/20221101/7805_2176ad30/index.m3u8
+第13集,https://vip.ffzy-play1.com/20221101/7803_bb7baeb0/index.m3u8
+第14集,https://vip.ffzy-play1.com/20221101/7808_9a9e0685/index.m3u8
+第15集,https://vip.ffzy-play1.com/20221101/7809_48ba11e8/index.m3u8
+第16集,https://vip.ffzy-play1.com/20221101/7807_312d5f5b/index.m3u8
+第17集,https://vip.ffzy-play1.com/20221101/7806_ce222c0e/index.m3u8
+第18集,https://vip.ffzy-play1.com/20221101/7811_d0e9546b/index.m3u8
+第19集,https://vip.ffzy-play1.com/20221101/7810_83b52589/index.m3u8
+第20集,https://vip.ffzy-play1.com/20221101/7813_0bf9e0ba/index.m3u8
+第21集,https://vip.ffzy-play1.com/20221101/7812_5b28e835/index.m3u8
+第22集,https://vip.ffzy-play1.com/20221101/7814_32bbe19a/index.m3u8
+第23集,https://vip.ffzy-play1.com/20221101/7815_a735d6e6/index.m3u8
+第24集,https://vip.ffzy-play1.com/20221101/7816_70421a4c/index.m3u8
+第25集,https://vip.ffzy-play1.com/20221101/7818_fee80523/index.m3u8
+
+🐯霍元甲国,#genre#
+第01集,https://vip.lz-cdn8.com/20220726/19874_401335cc/1000k/hls/mixed.m3u8
+第02集,https://vip.lz-cdn8.com/20220726/19875_ccbcbb44/1000k/hls/mixed.m3u8
+第03集,https://vip.lz-cdn8.com/20220726/19876_9f5602e7/1000k/hls/mixed.m3u8
+第04集,https://vip.lz-cdn8.com/20220726/19877_c9ff88af/1000k/hls/mixed.m3u8
+第05集,https://vip.lz-cdn8.com/20220726/19878_8ef4dff2/1000k/hls/mixed.m3u8
+第06集,https://vip.lz-cdn8.com/20220726/19879_0599f7d2/1000k/hls/mixed.m3u8
+第07集,https://vip.lz-cdn8.com/20220726/19880_7dd6ae47/1000k/hls/mixed.m3u8
+第08集,https://vip.lz-cdn8.com/20220726/19881_8db664ad/1000k/hls/mixed.m3u8
+第09集,https://vip.lz-cdn8.com/20220726/19882_f0e1940c/1000k/hls/mixed.m3u8
+第10集,https://vip.lz-cdn8.com/20220726/19883_aab542fe/1000k/hls/mixed.m3u8
+第11集,https://vip.lz-cdn8.com/20220726/19884_95dec638/1000k/hls/mixed.m3u8
+第12集,https://vip.lz-cdn8.com/20220726/19885_c10c2b96/1000k/hls/mixed.m3u8
+第13集,https://vip.lz-cdn8.com/20220726/19886_f635aa84/1000k/hls/mixed.m3u8
+第14集,https://vip.lz-cdn8.com/20220726/19887_035cab05/1000k/hls/mixed.m3u8
+第15集,https://vip.lz-cdn8.com/20220726/19888_db5f06a6/1000k/hls/mixed.m3u8
+第16集,https://vip.lz-cdn8.com/20220726/19889_734dcfd8/1000k/hls/mixed.m3u8
+第17集,https://vip.lz-cdn8.com/20220726/19890_72bf2446/1000k/hls/mixed.m3u8
+第18集,https://vip.lz-cdn8.com/20220726/19891_05999d8d/1000k/hls/mixed.m3u8
+第19集,https://vip.lz-cdn8.com/20220726/19892_71797390/1000k/hls/mixed.m3u8
+第20集,https://vip.lz-cdn8.com/20220726/19893_cfd7b68c/1000k/hls/mixed.m3u8
 
 🐹陈真轮播,#genre#
-陈真粤语版01,https://vip.lz-cdn8.com/20220726/19854_769355c9/index.m3u8
-陈真粤语版02,https://vip.lz-cdn8.com/20220726/19855_033f55d6/index.m3u8
-陈真粤语版03,https://vip.lz-cdn8.com/20220726/19856_f9f96648/index.m3u8
-陈真粤语版04,https://vip.lz-cdn8.com/20220726/19857_c801b35c/index.m3u8
-陈真粤语版05,https://vip.lz-cdn8.com/20220726/19858_a6bd7389/index.m3u8
-陈真粤语版06,https://vip.lz-cdn8.com/20220726/19859_58bfff6d/index.m3u8
-陈真粤语版07,https://vip.lz-cdn8.com/20220726/19860_2fdc7e05/index.m3u8
-陈真粤语版08,https://vip.lz-cdn8.com/20220726/19861_58725b29/index.m3u8
-陈真粤语版09,https://vip.lz-cdn8.com/20220726/19862_667d8602/index.m3u8
-陈真粤语版10,https://vip.lz-cdn8.com/20220726/19863_0624f5c5/index.m3u8
-陈真粤语版11,https://vip.lz-cdn8.com/20220726/19864_44a19cb0/index.m3u8
-陈真粤语版12,https://vip.lz-cdn8.com/20220726/19865_d3587490/index.m3u8
-陈真粤语版13,https://vip.lz-cdn8.com/20220726/19866_10bfbaf1/index.m3u8
-陈真粤语版14,https://vip.lz-cdn8.com/20220726/19867_0bd7a5e8/index.m3u8
-陈真粤语版15,https://vip.lz-cdn8.com/20220726/19868_00454ac7/index.m3u8
-陈真粤语版16,https://vip.lz-cdn8.com/20220726/19869_0a333db0/index.m3u8
-陈真粤语版17,https://vip.lz-cdn8.com/20220726/19870_18e7fde2/index.m3u8
-陈真粤语版18,https://vip.lz-cdn8.com/20220726/19871_3bc8089f/index.m3u8
-陈真粤语版19,https://vip.lz-cdn8.com/20220726/19872_0dbf4e3e/index.m3u8
-陈真粤语版20,https://vip.lz-cdn8.com/20220726/19873_7f0917c1/index.m3u8
+第01集,https://vip.lz-cdn8.com/20220726/19834_66a88720/1000k/hls/mixed.m3u8
+第02集,https://vip.lz-cdn8.com/20220726/19836_eb7a7ce7/1000k/hls/mixed.m3u8
+第03集,https://vip.lz-cdn8.com/20220726/19835_785d7664/1000k/hls/mixed.m3u8
+第04集,https://vip.lz-cdn8.com/20220726/19837_7b429d2e/1000k/hls/mixed.m3u8
+第05集,https://vip.lz-cdn8.com/20220726/19838_43aef020/1000k/hls/mixed.m3u8
+第06集,https://vip.lz-cdn8.com/20220726/19839_a3a9c060/1000k/hls/mixed.m3u8
+第07集,https://vip.lz-cdn8.com/20220726/19840_2e8d6e91/1000k/hls/mixed.m3u8
+第08集,https://vip.lz-cdn8.com/20220726/19841_c9084732/1000k/hls/mixed.m3u8
+第09集,https://vip.lz-cdn8.com/20220726/19842_96233bf6/1000k/hls/mixed.m3u8
+第10集,https://vip.lz-cdn8.com/20220726/19843_bbddd30f/1000k/hls/mixed.m3u8
+第11集,https://vip.lz-cdn8.com/20220726/19844_6c421f5d/1000k/hls/mixed.m3u8
+第12集,https://vip.lz-cdn8.com/20220726/19845_c210e715/1000k/hls/mixed.m3u8
+第13集,https://vip.lz-cdn8.com/20220726/19846_d1c2f432/1000k/hls/mixed.m3u8
+第14集,https://vip.lz-cdn8.com/20220726/19847_0c01ab85/1000k/hls/mixed.m3u8
+第15集,https://vip.lz-cdn8.com/20220726/19848_df0d92f5/1000k/hls/mixed.m3u8
+第16集,https://vip.lz-cdn8.com/20220726/19849_e0b1b770/1000k/hls/mixed.m3u8
+第17集,https://vip.lz-cdn8.com/20220726/19850_0c6c1205/1000k/hls/mixed.m3u8
+第18集,https://vip.lz-cdn8.com/20220726/19851_a5790612/1000k/hls/mixed.m3u8
+第19集,https://vip.lz-cdn8.com/20220726/19852_a90a54ba/1000k/hls/mixed.m3u8
+第20集,https://vip.lz-cdn8.com/20220726/19853_865959fc/1000k/hls/mixed.m3u8
 
-🐻霍东阁粤,#genre#
-霍东阁粤语01,https://vip.lz-cdn8.com/20220726/19944_c9253c69/index.m3u8
-霍东阁粤语02,https://vip.lz-cdn8.com/20220726/19945_f069d115/index.m3u8
-霍东阁粤语03,https://vip.lz-cdn8.com/20220726/19946_f2f479fd/index.m3u8
-霍东阁粤语04,https://vip.lz-cdn8.com/20220726/19947_22c818d2/index.m3u8
-霍东阁粤语05,https://vip.lz-cdn8.com/20220726/19948_63b416eb/index.m3u8
-霍东阁粤语06,https://vip.lz-cdn8.com/20220726/19949_9556b2ef/index.m3u8
-霍东阁粤语07,https://vip.lz-cdn8.com/20220726/19950_9bd371cd/index.m3u8
-霍东阁粤语08,https://vip.lz-cdn8.com/20220726/19951_051a8397/index.m3u8
-霍东阁粤语09,https://vip.lz-cdn8.com/20220726/19952_c1b7d232/index.m3u8
-霍东阁粤语10,https://vip.lz-cdn8.com/20220726/19953_c40ead35/index.m3u8
-霍东阁粤语11,https://vip.lz-cdn8.com/20220726/19954_c69c9b1c/index.m3u8
-霍东阁粤语12,https://vip.lz-cdn8.com/20220726/19955_d619ab6d/index.m3u8
-霍东阁粤语13,https://vip.lz-cdn8.com/20220726/19956_7ae37ea2/index.m3u8
-霍东阁粤语14,https://vip.lz-cdn8.com/20220726/19957_f81af19f/index.m3u8
-霍东阁粤语15,https://vip.lz-cdn8.com/20220726/19958_ade9758d/index.m3u8
-霍东阁粤语16,https://vip.lz-cdn8.com/20220726/19959_efaecfd4/index.m3u8
-霍东阁粤语17,https://vip.lz-cdn8.com/20220726/19960_92a61097/index.m3u8
-霍东阁粤语18,https://vip.lz-cdn8.com/20220726/19961_0f9701fa/index.m3u8
-霍东阁粤语19,https://vip.lz-cdn8.com/20220726/19962_24dc7f09/index.m3u8
-霍东阁粤语20,https://vip.lz-cdn8.com/20220726/19963_edff6c38/index.m3u8
-霍东阁粤语21,https://vip.lz-cdn8.com/20220726/19964_aa5d83ba/index.m3u8
-霍东阁粤语22,https://vip.lz-cdn8.com/20220726/19965_a3dc596a/index.m3u8
-霍东阁粤语23,https://vip.lz-cdn8.com/20220726/19966_ce76e526/index.m3u8
-霍东阁粤语24,https://vip.lz-cdn8.com/20220726/19967_93545c49/index.m3u8
-霍东阁粤语25,https://vip.lz-cdn8.com/20220726/19968_47d1f157/index.m3u8
-霍东阁粤语26,https://vip.lz-cdn8.com/20220726/19969_be522d01/index.m3u8
-霍东阁粤语27,https://vip.lz-cdn8.com/20220726/19970_a55cf6b4/index.m3u8
-霍东阁粤语28,https://vip.lz-cdn8.com/20220726/19971_3a300498/index.m3u8
-霍东阁粤语29,https://vip.lz-cdn8.com/20220726/19972_364f080f/index.m3u8
-霍东阁粤语30,https://vip.lz-cdn8.com/20220726/19973_8af7d3d1/index.m3u8
+🐻霍东阁国,#genre#
+第01集,https://vip.lz-cdn8.com/20220726/19914_261d11ef/1000k/hls/mixed.m3u8
+第02集,https://vip.lz-cdn8.com/20220726/19915_3abbcd5f/1000k/hls/mixed.m3u8
+第03集,https://vip.lz-cdn8.com/20220726/19916_bb0f2ad4/1000k/hls/mixed.m3u8
+第04集,https://vip.lz-cdn8.com/20220726/19917_639495b7/1000k/hls/mixed.m3u8
+第05集,https://vip.lz-cdn8.com/20220726/19918_f6092b3f/1000k/hls/mixed.m3u8
+第06集,https://vip.lz-cdn8.com/20220726/19919_cc8f4607/1000k/hls/mixed.m3u8
+第07集,https://vip.lz-cdn8.com/20220726/19920_0008828b/1000k/hls/mixed.m3u8
+第08集,https://vip.lz-cdn8.com/20220726/19921_36191152/1000k/hls/mixed.m3u8
+第09集,https://vip.lz-cdn8.com/20220726/19922_efe5a619/1000k/hls/mixed.m3u8
+第10集,https://vip.lz-cdn8.com/20220726/19923_9b608f25/1000k/hls/mixed.m3u8
+第11集,https://vip.lz-cdn8.com/20220726/19924_e3df978f/1000k/hls/mixed.m3u8
+第12集,https://vip.lz-cdn8.com/20220726/19925_611cd9b9/1000k/hls/mixed.m3u8
+第13集,https://vip.lz-cdn8.com/20220726/19926_1c0a0df0/1000k/hls/mixed.m3u8
+第14集,https://vip.lz-cdn8.com/20220726/19927_6499bb1a/1000k/hls/mixed.m3u8
+第15集,https://vip.lz-cdn8.com/20220726/19928_65126334/1000k/hls/mixed.m3u8
+第16集,https://vip.lz-cdn8.com/20220726/19929_dac89402/1000k/hls/mixed.m3u8
+第17集,https://vip.lz-cdn8.com/20220726/19930_98bcc8ef/1000k/hls/mixed.m3u8
+第18集,https://vip.lz-cdn8.com/20220726/19931_7d178aac/1000k/hls/mixed.m3u8
+第19集,https://vip.lz-cdn8.com/20220726/19932_464618d0/1000k/hls/mixed.m3u8
+第20集,https://vip.lz-cdn8.com/20220726/19933_9568026c/1000k/hls/mixed.m3u8
+第21集,https://vip.lz-cdn8.com/20220726/19934_0099f8f4/1000k/hls/mixed.m3u8
+第22集,https://vip.lz-cdn8.com/20220726/19935_37a444a3/1000k/hls/mixed.m3u8
+第23集,https://vip.lz-cdn8.com/20220726/19936_254ec849/1000k/hls/mixed.m3u8
+第24集,https://vip.lz-cdn8.com/20220726/19937_04404dde/1000k/hls/mixed.m3u8
+第25集,https://vip.lz-cdn8.com/20220726/19938_595c80bc/1000k/hls/mixed.m3u8
+第26集,https://vip.lz-cdn8.com/20220726/19939_251c9ea8/1000k/hls/mixed.m3u8
+第27集,https://vip.lz-cdn8.com/20220726/19940_c71c8a4d/1000k/hls/mixed.m3u8
+第28集,https://vip.lz-cdn8.com/20220726/19941_c607c6fd/1000k/hls/mixed.m3u8
+第29集,https://vip.lz-cdn8.com/20220726/19942_4cbf12b5/1000k/hls/mixed.m3u8
+第30集,https://vip.lz-cdn8.com/20220726/19943_b8fc85f9/1000k/hls/mixed.m3u8
 
 🐶射雕英雄,#genre#
 热血丹心粤01,https://vip.lz-cdn8.com/20220726/19974_a291c2fd/index.m3u8
@@ -6455,6 +6670,27 @@ CIBN古装剧场,http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
 百視TV獨家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 百視TV獨家直播,http://8.210.232.168/php/bs1.php?id=146
 百視TV獨家直播,http://hz752.love:63/cepl/bstv.php?id=146
+
+🎦爱奇艺综,#genre#
+好片速递,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
+电影大片,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d
+古装妖魔,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
+抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_884_1080P_t10/c54_fast_884_1080P_t10.m3u8?d
+谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_882_1080P_t10/c57_fast_882_1080P_t10.m3u8?d
+红色剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1049_1080P_t10/c60_fast_1049_1080P_t10.m3u8?d
+家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
+泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+搞笑剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
+传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1052_1080P_t10/c54_fast_1052_1080P_t10.m3u8?d
+青春剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
+欢乐剧场,http://lvbdcdncmn.inter.ptqy.gitv.tv/tslive/c56_fast_951_1080P_t10/c56_fast_951_1080P_t10.m3u8?d
+青春剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
+甜宠剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_877_1080P_t10/c54_fast_877_1080P_t10.m3u8?d
+大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
+警匪悬疑,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_880_1080P_t10.m3u8?d
+古装大剧,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
+爱情生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 
 🚁航拍中国,#genre#
 航拍中国安徽,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/67c4d1c8265b45898a455f4dbaf17680/1200.m3u8
