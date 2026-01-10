@@ -3385,9 +3385,9 @@ MOMOTV,rtmp://9hv9.mine.nu/sat/tv761.flv
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 大爱1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-亚太卫视,http://play2.one-tv.com/live/onetv.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 🏰港闽高清,#genre#
@@ -3609,8 +3609,7 @@ PLUS综合,https://cdn6.101.qzz.io/163189/tvbp
 澳视卫星,https://cdn6.101.qzz.io/163189/as
 澳门体育,https://cdn6.101.qzz.io/163189/amty
 澳门综艺,https://cdn6.101.qzz.io/163189/amzy
-澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳门莲花,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
+澳门莲花,https://cdn6.101.qzz.io/163189/amlh
 八度空间,https://cdn6.101.qzz.io/163189/8tv
 重温经典,https://cdn6.101.qzz.io/163189/cwjd
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
@@ -3663,11 +3662,13 @@ VIUTV-6,http://cdn.163189.xyz/163189/viu6
 ASTROAOD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
 
 PLUS综合,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
+PLUS综合,https://cdn9.163189.xyz/smt1.1.php?id=j2_twn
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰中文,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+无线新闻,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线翡翠,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 无线华丽,https://smt.1678520.xyz/smt3.2.1.php?id=Wlt
 无线华丽,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
@@ -3705,8 +3706,6 @@ NOW新闻,https://hls.168.us.kg/u/332/master.m3u8
 NOW财经,https://hls.168.us.kg/u/333/master.m3u8
 NOW直播,https://hls.168.us.kg/u/331/master.m3u8
 NOW体育,https://hls.168.us.kg/u/630/master.m3u8
-NOW爆谷粤,http://23.237.228.133/live2/baogutai.m3u8
-NOW星影粤,http://23.237.228.133/live2/xingyingtai.m3u8
 RTHK-31,https://hls.168.us.kg/u/31/master.m3u8
 RTHK-32,https://hls.168.us.kg/u/32/master.m3u8
 VIUTV-1,https://hls.168.us.kg/u/99/master.m3u8
@@ -3714,22 +3713,53 @@ VIUTV-6,https://hls.168.us.kg/u/96/master.m3u8
 VIUTV全运-1,https://hls.168.us.kg/u/961/master.m3u8
 VIUTV全运-2,https://hls.168.us.kg/u/962/master.m3u8
 
+无线新闻,http://bxtv.3a.ink/api.php?id=id=wxxw
+中天新闻,http://bxtv.3a.ink/api.php?id=id=ztxw
+PLUS综合,http://bxtv.3a.ink/api.php?id=id=tvbp
+PₒₚC电影,http://bxtv.3a.ink/api.php?id=id=popc
+NOW星影粤,http://bxtv.3a.ink/api.php?id=id=xingying
+NOW爆谷粤,http://bxtv.3a.ink/api.php?id=id=baogu
+美亞電影,http://bxtv.3a.ink/api.php?id=id=meiya
+凤凰中文,http://bxtv.3a.ink/api.php?id=id=fhzw
+凤凰资讯,http://bxtv.3a.ink/api.php?id=id=fhzx
+凤凰香港,http://bxtv.3a.ink/api.php?id=id=fhhk
+无线翡翠,http://bxtv.3a.ink/api.php?id=id=fct
+无线明珠,http://bxtv.3a.ink/api.php?id=id=mz
+无线功夫,http://bxtv.3a.ink/api.php?id=id=gf
+无线千禧,http://bxtv.3a.ink/api.php?id=id=qxjd
+无线赛马,http://bxtv.3a.ink/api.php?id=id=18
+无线赛马,http://bxtv.3a.ink/api.php?id=id=18&.m3u8
+
 无线新闻,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=wxxw
+无线新闻,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=wxxw&.m3u8
 中天新闻,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=ztxw
+中天新闻,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=ztxw&.m3u8
 PLUS综合,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=tvbp
+PLUS综合,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=tvbp&.m3u8
 PₒₚC电影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=popc
-PₒₚC电影,https://bxtv.3a.ink/mytv/mytvts2.333.php?id=popc
+PₒₚC电影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=popc&.m3u8
 NOW星影粤,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=xingying
+NOW星影粤,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=xingying&.m3u8
 NOW爆谷粤,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=baogu
+NOW爆谷粤,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=baogu&.m3u8
 美亞電影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=meiya
+美亞電影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=meiya&.m3u8
 凤凰中文,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzw
+凤凰中文,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzw&.m3u8
 凤凰资讯,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzx
+凤凰资讯,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzx&.m3u8
 凤凰香港,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhhk
+凤凰香港,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhhk&.m3u8
 无线翡翠,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fct
+无线翡翠,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fct&.m3u8
 无线明珠,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=mz
+无线明珠,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=mz&.m3u8
 无线功夫,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=gf
+无线功夫,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=gf&.m3u8
 无线千禧,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=qxjd
+无线千禧,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=qxjd&.m3u8
 无线赛马,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=18
+无线赛马,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=18&.m3u8
 
 PₒₚC电影,http://tl.061833.xyz/tl/popc
 PLUS综合,http://tl.061833.xyz/tl/pluse
@@ -5014,8 +5044,11 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9
 98鹿鼎记经典轮播,http://cfss.cc/cdn/yy/28265277.m3u8
 98鹿鼎记经典轮播,https://lunbo.freetv.top/yy/28265277
 98鹿鼎记经典轮播,https://luobo.bkpcp.top//yy/28265277
+01寻秦记经典轮播,http://cfss.cc/cdn/yy/1382851591.flv
 01寻秦记经典轮播,http://cfss.cc/cdn/yy/1382749900.m3u8
+01寻秦记经典轮播,https://lunbo.freetv.top/yy/1382851591
 01寻秦记经典轮播,https://lunbo.freetv.top/yy/1382749900
+01寻秦记经典轮播,https://luobo.bkpcp.top//yy/1382851591
 01寻秦记经典轮播,https://luobo.bkpcp.top//yy/1382749900
 07金婚电视剧轮播,http://cfss.cc/cdn/yy/1382828768.m3u8
 07金婚电视剧轮播,http://cfss.cc/cdn/yy/1382736832.m3u8
