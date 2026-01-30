@@ -3256,11 +3256,12 @@ CHC影迷电影,https://live.goodiptv.club/api/cqyx.php?id=CHCGQDYHD
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳门莲花,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
+澳门莲花,https://cdn6.101.qzz.io/163189/amlh
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://over.qiyuevod.com/tmsctv/amlh.php
+澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+澳门莲花,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳门资讯,http://103.233.191.134:1935/ch5/info_ch5.live/index.m3u8
 澳门资讯,http://103.233.191.134:1935/ch5/info_ch5.live/master.m3u8
 澳门资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
@@ -3394,10 +3395,11 @@ MOMOTV,rtmp://9hv9.mine.nu/sat/tv761.flv
 凤凰中文,http://rihou.cc:555/tv/[Hk]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Hk]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Hk]凤凰香港
-中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
+中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
+中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
 东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
 台视新闻,http://rihou.cc:555/tv/[Hk]台视新闻
@@ -3406,37 +3408,47 @@ MOMOTV,rtmp://9hv9.mine.nu/sat/tv761.flv
 中旺电视,http://rihou.cc:555/tv/[Hk]中旺电视
 PLUS综合,http://rihou.cc:555/tv/[Hk]Plus综合
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
+TVBS新闻,http://rihou.cc:555/tv/[Hv]tvbS闽南
 TVBS新闻,http://rihou.cc:555/tv/[Hk]tvbS新闻
-TVBS闽南,http://rihou.cc:555/tv/[Hk]tvbs闽南
+TVBS新闻,http://rihou.cc:555/tv/[Hk]tvbS闽南
+TVBS闽南,http://rihou.cc:555/tv/[Hk]tvbS闽南
 TVBS闽南,http://rihou.cc:555/tv/[Hk]tvbS南闽
 TVBS新话,http://rihou.cc:555/tv/[Hk]tvbs新话
 NOW新闻,http://rihou.cc:555/tv/[Hk]Now新闻
 NOW英超,http://rihou.cc:555/tv/[Hk]Now英超
 NOW体育,http://rihou.cc:555/tv/[Hk]Now体育
+NOW华剧,http://rihou.cc:555/tv/[Hv]Now华剧
 NOW华剧,http://rihou.cc:555/tv/[Hk]Now华剧
+NOW剧集,http://rihou.cc:555/tv/[Hv]Now剧集
 NOW剧集,http://rihou.cc:555/tv/[Hk]Now剧集
+NOW紫金,http://rihou.cc:555/tv/[Hv]Now紫金
 NOW紫金,http://rihou.cc:555/tv/[Hk]Now紫金
+NOW星影国,http://rihou.cc:555/tv/[Hv]Now星影
 NOW星影国,http://rihou.cc:555/tv/[Hk]Now星影
 NOW星影粤,http://rihou.cc:555/tv/[Bx]Now星影
-NOW星影粤,http://rihou.cc:555/tv/[Hk]Now星影l
+NOW星影粤,http://rihou.cc:555/tv/[Hk]Now星影|
+NOW爆谷国,http://rihou.cc:555/tv/[Hv]Now爆谷
 NOW爆谷国,http://rihou.cc:555/tv/[Hk]Now爆谷
 NOW爆谷粤,http://rihou.cc:555/tv/[Bx]Now爆谷
-NOW爆谷粤,http://rihou.cc:555/tv/[Hk]Now爆谷l
+NOW爆谷粤,http://rihou.cc:555/tv/[Hk]Now爆谷|
 CM+电影,http://rihou.cc:555/tv/[Hk]cm电影
 HUB娱家,http://rihou.cc:555/tv/[Hk]HUB娱家
 HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
+PₒₚC电影,http://rihou.cc:555/tv/[Hv]pₒₚc电影
 PₒₚC电影,http://rihou.cc:555/tv/[Hk]pₒₚc电影
 PₒₚC电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
+美亚电影,http://rihou.cc:555/tv/[Hv]美亚电影
 美亚电影,http://rihou.cc:555/tv/[Hk]美亚电影
 美亞電影,http://rihou.cc:555/tv/[SX]美亚电影
-美亞電影,http://rihou.cc:555/tv/[Hk]美亚电影l
+美亞電影,http://rihou.cc:555/tv/[Hv]美亚电影|
 东森电影,http://rihou.cc:555/tv/[Hk]东森电影
-東森電影,http://rihou.cc:555/tv/[Hk]东森电影l
+東森電影,http://rihou.cc:555/tv/[Hk]东森电影|
 龙祥时代,http://rihou.cc:555/tv/[Hk]龙祥时代
 天映频道,http://rihou.cc:555/tv/[Hk]天映频道
 天映经典,http://rihou.cc:555/tv/[Hk]天映经典
 高点综合,http://rihou.cc:555/tv/[Hk]高点综合
 高清剧场,http://rihou.cc:555/tv/[Hk]高清剧场
+黄金华剧,http://rihou.cc:555/tv/[Hv]黄金华剧
 黄金华剧,http://rihou.cc:555/tv/[Hk]黄金华剧
 黄金翡翠,http://rihou.cc:555/tv/[Hk]黄金翡翠
 星空卫视,http://rihou.cc:555/tv/[Hk]星空卫视
@@ -3444,10 +3456,15 @@ PₒₚC电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 无线新闻,http://rihou.cc:555/tv/[SZ]无线新闻
 无线翡翠,http://rihou.cc:555/tv/[Hk]无线翡翠
 无线翡翠,http://rihou.cc:555/tv/[SZ]无线翡翠
+无线星河,http://rihou.cc:555/tv/[Hv]无线星河
 无线星河,http://rihou.cc:555/tv/[Hk]无线星河
 无线明珠,http://rihou.cc:555/tv/[Hk]无线明珠
+无线功夫,http://rihou.cc:555/tv/[Hv]无线功夫
+无线生活,http://rihou.cc:555/tv/[Hv]无线生活
 无线生活,http://rihou.cc:555/tv/[Hk]无线生活
+无线翡剧,http://rihou.cc:555/tv/[Hv]无线翡剧
 无线翡剧,http://rihou.cc:555/tv/[Hk]无线翡剧
+无线明剧,http://rihou.cc:555/tv/[Hv]无线明剧
 无线明剧,http://rihou.cc:555/tv/[Hk]无线明剧
 无线华剧,http://rihou.cc:555/tv/[Hk]无线华剧
 无线戏曲,http://rihou.cc:555/tv/[Hk]无线戏曲
@@ -3492,8 +3509,10 @@ PLUS综合,http://rihou.cc:555/tv/[PL]Plus综贰
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 有线新闻,http://rihou.cc:555/tv/[PL]有线新闻
+有线新闻,http://rihou.cc:555/tv/[Hv]有线新闻
 有线综合,http://rihou.cc:555/tv/[PL]有线综合
 有线综合,http://rihou.cc:555/tv/[PL]有线综国
+有线赛讯,http://rihou.cc:555/tv/[Hv]有线赛讯
 有线赛讯,http://rihou.cc:555/tv/[PL]有线赛讯
 无线新闻,http://rihou.cc:555/tv/[PL]无线新闻
 无线翡翠,http://rihou.cc:555/tv/[PL]无线翡翠
@@ -3548,6 +3567,7 @@ ASTRO全佳,http://rihou.cc:555/tv/[SX]Astro_QJ
 ASTRO爱奇,http://rihou.cc:555/tv/[SX]Astro爱奇
 ASTRO欢喜,http://rihou.cc:555/tv/[SX]Astro欢喜
 
+凤凰香港,http://rihou.cc:555/tv/[Mt]凤凰香港
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 无线翡翠,http://rihou.cc:555/tv/[Mt]无线翡翠
 无线明珠,http://rihou.cc:555/tv/[Mt]无线明珠
@@ -3567,6 +3587,22 @@ VIUTV-1,http://rihou.cc:555/tv/[Mt]VIUTV粤
 VIUTV-6,http://rihou.cc:555/tv/[Mt]VIUTV英
 VIUTV全运-1,http://rihou.cc:555/tv/[Mt]VIUTV壹
 VIUTV全运-2,http://rihou.cc:555/tv/[Mt]VIUTV贰
+
+凤凰香港,http://rihou.cc:555/tv/[DB]凤凰香港
+无线新闻,http://rihou.cc:555/tv/[DB]无线新闻
+无线翡翠,http://rihou.cc:555/tv/[DB]无线翡翠
+无线明珠,http://rihou.cc:555/tv/[DB]无线明珠
+有线新闻,http://rihou.cc:555/tv/[DB]有线新闻
+有线赛讯,http://rihou.cc:555/tv/[DB]有线赛讯
+有线综合,http://rihou.cc:555/tv/[DB]有线综合
+PLUS综合,http://rihou.cc:555/tv/[DB]Plus综合
+VIUTV-1,http://rihou.cc:555/tv/[DB]VIUTV粤
+VIUTV-6,http://rihou.cc:555/tv/[DB]VIUTV英
+RTHK-31,http://rihou.cc:555/tv/[DB]RTHK-31
+RTHK-32,http://rihou.cc:555/tv/[DB]RTHK-32
+RTHK-33,http://rihou.cc:555/tv/[DB]RTHK-33
+RTHK-34,http://rihou.cc:555/tv/[DB]RTHK-34
+RTHK-35,http://rihou.cc:555/tv/[DB]RTHK-35
 
 无线新闻,http://rihou.cc:555/tv/[Bx]无线新闻
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
@@ -3675,6 +3711,7 @@ PLUS综合,https://cdn9.163189.xyz/smt1.1.php?id=j2_twn
 无线华丽,https://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 无线明珠,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
 无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
+无线星河,https://smt.1678520.xyz/smt3.2.3.php?id=Xinhe
 无线千禧,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 无线娱乐,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 美亞電影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
@@ -3717,6 +3754,7 @@ VIUTV全运-2,https://hls.168.us.kg/u/962/master.m3u8
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 PLUS综合,http://bxtv.3a.ink/api.php?id=tvbp
 PₒₚC电影,http://bxtv.3a.ink/api.php?id=popc
+PₒₚC电影,http://bxtv.3a.ink/api.php?id=popc&.m3u8
 NOW星影粤,http://bxtv.3a.ink/api.php?id=xingying
 NOW爆谷粤,http://bxtv.3a.ink/api.php?id=baogu
 美亞電影,http://bxtv.3a.ink/api.php?id=meiya
@@ -3822,6 +3860,7 @@ ROCK娱乐,http://iptv.4666888.xyz/iptv2A.php?id=50
 EYE戏剧,http://iptv.4666888.xyz/iptv2A.php?id=56
 WWE格斗,http://iptv.4666888.xyz/iptv2A.php?id=5
 RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
+RTHK-32,http://iptv.4666888.xyz/iptv2A.php?id=24
 SPOTV-1,http://iptv.4666888.xyz/iptv2A.php?id=2
 SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
 SPORTS-3,http://iptv.4666888.xyz/iptv2A.php?id=3
@@ -8152,9 +8191,9 @@ CCTV-央视文化精品,http://skycw.vicp.net:4022/udp/238.1.79.54:4568
 绩溪电视台,http://skycw.vicp.net:4022/udp/238.1.78.218:7616
 
 💖辽宁有线,#genre#
+CCTV-1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV-1,http://120.76.248.139/live/bfgd/4200000201.m3u8
 CCTV-1,http://120.76.248.139/live/bfgd/4200000484.m3u8
-CCTV-1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV-1,http://120.76.248.139/live/bfgd/4200000489.m3u8
 CCTV-1,http://120.76.248.139/live/bfgd/4200000490.m3u8
 CCTV-2,http://120.76.248.139/live/bfgd/4200000061.m3u8
@@ -11616,10 +11655,7 @@ Channel U,http://test.zapi.us.kg/?id=channel-u
 TV9,http://test.zapi.us.kg/?id=tv9
 CNN,http://test.zapi.us.kg/?id=cnn
 CNN International,http://test.zapi.us.kg/?id=cnn-international
-HLN,http://test.zapi.us.kg/?id=cnn-hln
 BBC World News,http://test.zapi.us.kg/?id=bbc-world-news
-CNBC,http://test.zapi.us.kg/?id=cnbc
-OKEY,http://test.zapi.us.kg/?id=okey
 FOX News,http://test.zapi.us.kg/?id=fox-news
 CBS News,http://test.zapi.us.kg/?id=cbsn
 ABC News,http://test.zapi.us.kg/?id=abc-news
