@@ -3318,52 +3318,52 @@ RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/st
 中天新闻,https://ibf.tw/1Unk3
 中天电视,https://ibf.tw/wDF5b
 中天亚洲,https://ibf.tw/H6Rhx
-中天新闻,https://haoyunlai.serv00.net/Smartv.php?id=ctinews
-中天电视,https://haoyunlai.serv00.net/Smartv.php?id=ctinews
-中天亚洲,https://haoyunlai.serv00.net/Smartv.php?id=ctiasia_twn
-台视新闻,https://haoyunlai.serv00.net/Smartv.php?id=ttvnews_twn
-中视新闻,https://haoyunlai.serv00.net/Smartv.php?id=zhongshinews_twn
-民视新闻,https://haoyunlai.serv00.net/Smartv.php?id=ftvnew_taiwan
-华视新闻,https://haoyunlai.serv00.net/Smartv.php?id=ctshd_twn
-公视新闻,https://haoyunlai.serv00.net/Smartv.php?id=ctv_taiwan
-三立新闻,https://haoyunlai.serv00.net/Smartv.php?id=sanlitaiwan
-寰宇新闻,https://haoyunlai.serv00.net/Smartv.php?id=huanyuxinwen_twn
-年代新闻,https://haoyunlai.serv00.net/Smartv.php?id=niandainews_twn
+中天新闻,https://live.catvod.com/live.php?id=ctinews
+中天电视,https://live.catvod.com/live.php?id=ctinews
+中天亚洲,https://live.catvod.com/live.php?id=ctiasia_twn
+台视新闻,https://live.catvod.com/live.php?id=ttvnews_twn
+中视新闻,https://live.catvod.com/live.php?id=zhongshinews_twn
+民视新闻,https://live.catvod.com/live.php?id=ftvnew_taiwan
+华视新闻,https://live.catvod.com/live.php?id=ctshd_twn
+公视新闻,https://live.catvod.com/live.php?id=ctv_taiwan
+三立新闻,https://live.catvod.com/live.php?id=sanlitaiwan
+寰宇新闻,https://live.catvod.com/live.php?id=huanyuxinwen_twn
+年代新闻,https://live.catvod.com/live.php?id=niandainews_twn
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581.flv
 非凡新闻,rtmp://9hv9.mine.nu/sat/tv581.flv
-非凡新闻,https://haoyunlai.serv00.net/Smartv.php?id=feifannews_twn
-壹视新闻,https://haoyunlai.serv00.net/Smartv.php?id=yinews
-东森新闻,https://haoyunlai.serv00.net/Smartv.php?id=ettvnews
+非凡新闻,https://live.catvod.com/live.php?id=feifannews_twn
+壹视新闻,https://live.catvod.com/live.php?id=yinews
+东森新闻,https://live.catvod.com/live.php?id=ettvnews
 东森财经,rtmp://f13h.mine.nu/sat/tv571.flv
 东森财经,rtmp://9hv9.mine.nu/sat/tv571.flv
-东森财经,https://haoyunlai.serv00.net/Smartv.php?id=ettvcaijing_twn
+东森财经,https://live.catvod.com/live.php?id=ettvcaijing_twn
 东森超视,rtmp://f13h.mine.nu/sat/tv331.flv
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
-东森超视,https://haoyunlai.serv00.net/Smartv.php?id=ettvsuper
+东森超视,https://live.catvod.com/live.php?id=ettvsuper
 纬来日本,rtmp://f13h.mine.nu/sat/tv771.flv
 纬来日本,rtmp://9hv9.mine.nu/sat/tv771.flv
-纬来日本,https://haoyunlai.serv00.net/Smartv.php?id=videolandjapan
+纬来日本,https://live.catvod.com/live.php?id=videolandjapan
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701.flv
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701.flv
-纬来育乐,https://haoyunlai.serv00.net/Smartv.php?id=videolandyule
+纬来育乐,https://live.catvod.com/live.php?id=videolandyule
 纬来体育,rtmp://f13h.mine.nu/sat/tv721.flv
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
-纬来体育,https://haoyunlai.serv00.net/Smartv.php?id=videolandsport
-纬来电影,https://haoyunlai.serv00.net/Smartv.php?id=videolandmovie
-天映频道,https://haoyunlai.serv00.net/Smartv.php?id=ctv18_twn
-天映频道,https://haoyunlai.serv00.net/Smartv.php?id=Celestial
-天映频道,https://haoyunlai.serv00.net/Smartv.php?id=Celestialindo
-天映经典,https://haoyunlai.serv00.net/Smartv.php?id=Celestial2
+纬来体育,https://live.catvod.com/live.php?id=videolandsport
+纬来电影,https://live.catvod.com/live.php?id=videolandmovie
+天映频道,https://live.catvod.com/live.php?id=ctv18_twn
+天映频道,https://live.catvod.com/live.php?id=Celestial
+天映频道,https://live.catvod.com/live.php?id=Celestialindo
+天映经典,https://live.catvod.com/live.php?id=Celestial2
 天映经典,http://171.108.239.127:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 天映经典,http://171.108.239.124:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-美亚电影,https://haoyunlai.serv00.net/Smartv.php?id=meiyamovie_twn
-东森电影,https://haoyunlai.serv00.net/Smartv.php?id=ettvmovie
+美亚电影,https://live.catvod.com/live.php?id=meiyamovie_twn
+东森电影,https://live.catvod.com/live.php?id=ettvmovie
 东森电影,http://171.108.239.127:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 东森电影,http://171.108.239.124:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片,https://haoyunlai.serv00.net/Smartv.php?id=ettvwestern
+东森洋片,https://live.catvod.com/live.php?id=ettvwestern
 东森洋片,http://171.108.239.127:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 东森洋片,http://171.108.239.124:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥时代,https://haoyunlai.serv00.net/Smartv.php?id=lungxiangtime_twn
+龙祥时代,https://live.catvod.com/live.php?id=lungxiangtime_twn
 龙祥时代,http://171.108.239.127:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥时代,http://171.108.239.124:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 中国电影,http://171.108.239.127:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3411,6 +3411,7 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS新闻,http://rihou.cc:555/tv/[Hv]tvbS闽南
 TVBS新闻,http://rihou.cc:555/tv/[Hk]tvbS新闻
 TVBS新闻,http://rihou.cc:555/tv/[Hk]tvbS闽南
+TVBS闽南,http://rihou.cc:555/tv/[Hv]tvbS闽南
 TVBS闽南,http://rihou.cc:555/tv/[Hk]tvbS闽南
 TVBS闽南,http://rihou.cc:555/tv/[Hk]tvbS南闽
 TVBS新话,http://rihou.cc:555/tv/[Hk]tvbs新话
@@ -11669,13 +11670,13 @@ Euronews,http://test.zapi.us.kg/?id=euronews
 Bloomberg,http://test.zapi.us.kg/?id=bloomberg
 
 🚀公告通知,#genre#
-鑫磊直播,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-PE4gUogNfRyAM.mp4
-永久免费,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyfmc4gUooLyJ2Ac.mp4
-严禁商用,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-仅供测试,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsK2M5gUosN7C7QQ.mp4
-违者自负,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3drE4gUo05Sr5AI.mp4
-方便小白,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2bGM5gUo_NXfoAI.mp4
-大佬请绕道,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg18Cv5wUoy_y7mQE.mp4
+鑫磊直播,https://txmov2.a.kwimgs.com/bs3/video-hls/5252041701152345508_hlsb.m3u8
+永久免费,https://txmov2.a.kwimgs.com/bs3/video-hls/5246412201505505933_hlsb.m3u8
+严禁商用,https://txmov2.a.kwimgs.com/bs3/video-hls/5228116320942620413_hlsb.m3u8
+仅供测试,https://txmov2.a.kwimgs.com/bs3/video-hls/5251760219003853218_hlsb.m3u8
+违者自负,https://txmov2.a.kwimgs.com/bs3/video-hls/5250634324924434598_hlsb.m3u8
+方便小白,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012023525680703_hlsb.m3u8
+大佬请绕道,https://txmov2.a.kwimgs.com/bs3/video-hls/5253449075409106514_hlsb.m3u8
 
 *_*********꧁鑫҉磊҉直҉播҉源꧂*********_*
 ______      _               _  _          
